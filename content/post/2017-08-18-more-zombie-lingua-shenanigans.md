@@ -1,0 +1,62 @@
+---
+amazonS3_cache:
+- a:11:{s:68:"//docs.wixstatic.com/ugd/d58ca7_7a4c30ca5c704089b3be9e22e255a314.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_14a134674cdf447ea4b968b76a4b68fa.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_6fe6dd36d9c44569aaa2fc69a09230c1.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_1bd7b8585ed349e4902dbeee0bd9425a.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_131c763365864ce2b546165c4ece1cac.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_4e5180da60ba4c2a87a409a0f2e39a2d.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_9fe61d23b46f4566a31e9a7e2ee157ce.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_a0a4e01ec09049f5883ea3e90207ab2b.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_9e13dfa160bc444385b069c1f7dc5749.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_9c958ac8360748998d9b915cc944a306.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_3205107c953f4d97894c1f92419ffbb1.pdf";a:1:{s:9:"timestamp";i:1503065471;}}
+author: Kai von Fintel
+categories:
+- Uncategorized
+date: 2017-08-18T10:17:34Z
+guid: http://kaivonfintel.org/?p=708
+id: 708
+tags:
+- glossa
+- open access
+- publishing
+- zombie lingua
+title: More <i>Zombie Lingua</i> shenanigans
+url: /more-zombie-lingua-shenanigans/
+---
+
+<p>[This is a joint post by <a href="https://sites.google.com/ucsd.edu/ebakovic/">Eric Baković</a> and <a href="http://kaivonfintel.org/about/">Kai von Fintel</a>, crossposted from <a href="http://languagelog.ldc.upenn.edu/nll/?p=34106">Language Log</a>.]</p>
+
+<p>Regular Language Log readers will be familiar with <a href="http://languagelog.ldc.upenn.edu/nll/?p=22162">our continuing coverage</a></i> of the goings-on at what we in the linguistics community have given the name <i>Zombie Lingua</i> -- the Elsevier journal once universally known by its still-official name, <i>Lingua</i> -- a journal that we believe should have been allowed to die a respectable death when its entire editorial board resigned en masse at the end of 2015 to start the new (and flourishing!) <a href="http://www.lingoa.eu/about/aims/">fair Open Access</a> journal <i><a href="http://www.glossa-journal.org/">Glossa</a></i>, published by <i><a href="http://www.ubiquitypress.com/">Ubiquity Press</a></i>.</p>
+
+<p>Instead, Elsevier chose to prop the old journal up, dust it off, and continue to publish articles. The first few months to a year of <i>Zombie Lingua</i>'s macabre semi-existence were helped along by the fact that there was a backlog of already-accepted articles, as well as expected articles for special issues that had already seen some articles published -- and also by <a href="http://kaivonfintel.org/checking-on-the-zombies/">the astonishingly quick acceptance and publication of other articles in the revision backlog</a>. The then-interim editor-in-chief, <a href="https://www.nmu.edu/psychology/harry-whitaker">Harry Whitaker</a>, must have been very eager to clear the decks and start off with a clean slate -- and to keep the flow of publications going, of course, lest the journal be truly dead.</i></p>
+
+<p>Whitaker is now officially co-editor-in-chief along with <a href="http://martadynel.com/">Marta Dynel</a>, and they have recently authored <a href="http://www.sciencedirect.com/science/article/pii/S0024384117300992">an editorial</a> announcing the direction in which they say they are now taking the journal. Whitaker and Dynel claim that <i>Zombie Lingua</i> is "returning to its roots" of "General Linguistics and cognate branches", which they implicitly and disingenuously contrast with what <i>Lingua</i> had been publishing under the previous editorship. (See also <a href="http://www.sciencedirect.com/science/article/pii/S0024384117302619">this "publisher's note"</a>, where the journal's return-to-roots is boastfully claimed to be "the reality of the future.")</p>
+
+<p>To those who have been keeping tabs on what has been published entirely under the current <i>Zombie Lingua</i> editorship, the editorial reads more like a defense of an internal decision to lower their editorial standards. In what is perhaps the most egregious case, the editors <a href="http://www.sciencedirect.com/science/article/pii/S0024384116300638">finally withdrew a published article</a> that was <a href="http://languagelog.ldc.upenn.edu/nll/?p=28545">clearly plagiarized</a></i> -- though reluctantly and after an unforgivably protracted period, and without acknowledgement of the charge of plagiarism.</i></p>
+
+<p>It's also worth noting that <a href="https://www.journals.elsevier.com/lingua/editorial-board">the <i>Zombie Lingua</i> editorial board</a> that has been assembled has both expanded and contracted over time -- contracted because a few new members had second thoughts, (re-)weighed the pros and cons, and decided that an extra line on their CV wasn't worth lending their support to a journal that is dead in the eyes of a healthy portion of the field and that has quite obviously lowered their editorial standards. Those who have chosen to stay either have explicitly made the opposite calculus or just don't appear to care one way or the other. That's their right, of course, but we stand in judgment. (In reply to an email from us, one of the current board members wrote that "We should consider ourselves lucky that publishers deign to even touch our work." Wow.)</p>
+
+<p>The bulk of the linguistics community <a href="http://languagelog.ldc.upenn.edu/nll/?p=23910">has rallied behind <i>Glossa</i> and against <i>
+Zombie Lingua</i></a>, heeding the call to support the former (with our submissions and reviewing time) and to starve the latter. In responding to review requests from <i>Zombie Lingua</i>, a number of our colleagues have explicitly indicated their reasons for turning down the request. The editors have been duly forwarding some of these to <a href="https://uk.linkedin.com/in/chris-pringle-6a65546">Chris Pringle</a>, the Executive Publisher of <i>Zombie Lingua</i>, who has responded by taking precious time out of his executive schedule to reply directly (and at some length) to our colleagues, relating Elsevier's "side" of the story of <i>Lingua/Glossa</i>.</p>
+
+<p>Some of Pringle's messages have made their way to <i>Glossa</i>'s (and <i>Lingua</i>'s former) editor, <a href="https://www.rooryck.org/">Johan Rooryck</a></i>. In the interests of transparency, <a href="https://www.rooryck.org/interaction-with-elsevier">Rooryck has posted this correspondence on his website</a></i>, including Rooryck's subsequent exchanges with Pringle. Since the issues under discussion concern the reasons for and methods by which Rooryck and his editorial team resigned from <i>Lingua</i>, Rooryck has also included <a href="https://docs.wixstatic.com/ugd/d58ca7_7a4c30ca5c704089b3be9e22e255a314.pdf">a point-by-point refutation of Pringle's allegations</a></i>, as well as a comprehensive collection of Rooryck's correspondence with Elsevier in late 2015, both leading up to the editorial board's resignation and in its aftermath. (The current contents of this page on Rooryck's website have also been included at the end of this post.)</p>
+
+<p>One has to wonder what Pringle thinks that he, <i>Zombie Lingua</i>, or Elsevier stand to gain from these personalized replies to review request rejections. Pringle must somehow believe that the hearts and minds of our colleagues can be won back by "correcting the record" on a dispute that he characterizes as being between a petulant journal editor and the journal's patronizing publisher. But, as Rooryck's documentation makes abundantly clear, this was an attempted negotiation between the full editorial board of the journal, entirely responsible for the vetting and shepherding of its content, and the journal's publisher, entirely responsible for charging readers too much for subscriptions to particularly-formatted versions of this content and authors too much for the apparent privilege of publishing individual articles in Open Access (with no compensatory discount on subscriptions, mind you &ndash; this is what has been properly called '<a href="https://www.martineve.com/2015/01/31/on-open-access-books-and-double-dipping/">double-dipping</a>').</p>
+
+<p>In sum, there can be little doubt that <i>Zombie Lingua</i> continues to be the walking dead.</p>
+
+<hr>
+<h2>Current content of Johan Rooryck's <a href="https://www.rooryck.org/interaction-with-elsevier">Interaction with Elsevier page</a> (as of 8/17/2017)</h2>
+
+<ol>
+
+<h3>The 2017 Elsevier campaign</h3>
+
+	<li>My point-by-point, fact-checking-style <a href="https://docs.wixstatic.com/ugd/d58ca7_7a4c30ca5c704089b3be9e22e255a314.pdf">refutation</a> of allegations made by Elsevier's Executive Publisher Chris Pringle about the <i>Lingua/Glossa</i> transition in mails (e.g. 3 and 4 below) written to invited <i>Lingua</i> reviewers who decline to do reviews because of the transition to <i>Glossa.</i></li>
+	<li>My <a href="https://docs.wixstatic.com/ugd/d58ca7_14a134674cdf447ea4b968b76a4b68fa.pdf">correspondence</a> with Chris Pringle (Executive Publisher, Elsevier) regarding his message to Reviewer 2, 8 August 2017.</li>
+	<li><a href="https://docs.wixstatic.com/ugd/d58ca7_6fe6dd36d9c44569aaa2fc69a09230c1.pdf">Mail</a> from Chris Pringle (Executive Publisher, Elsevier) to Declining <i>Lingua Reviewer 2.</i></li>
+	<li><a href="https://docs.wixstatic.com/ugd/d58ca7_1bd7b8585ed349e4902dbeee0bd9425a.pdf">Mail</a> from Chris Pringle (Executive Publisher, Elsevier) to Declining <i>Lingua Reviewer 1.</i></li>
+	<li>An attempt to rewrite history in an <a href="https://doi.org/10.1016/S0024-3841(17)30261-9">editorial</a> by Chris Pringle (Executive Publisher, Elsevier) for the publisher in <i>Lingua</i> 194 (July 2017), and my Facebook <a href="https://www.facebook.com/johan.rooryck/posts/1246316202163288">reply</a> to it.</i></li>
+	<li>My <a href="https://docs.wixstatic.com/ugd/d58ca7_131c763365864ce2b546165c4ece1cac.pdf">refutation of claims</a> made at ARCL 2017 regarding Elsevier's APC proposal to the <i>Lingua</i> editors.</i></li>
+
+<h3>October--November 2015</h3>
+
+	<li>My <a href="https://docs.wixstatic.com/ugd/d58ca7_4e5180da60ba4c2a87a409a0f2e39a2d.pdf">mail to Elsevier</a> of 5 November 2015, requesting rectification of Tom Reller's (Vice President and Head of Global Corporate Relations, Elsevier) <a href="https://www.elsevier.com/connect/addressing-the-resignation-of-the-lingua-editorial-board">public statement</a> about the resignation of the <i>Lingua</i> editorial board on 4 November 2015.</li>
+	<li><a href="https://docs.wixstatic.com/ugd/d58ca7_9fe61d23b46f4566a31e9a7e2ee157ce.pdf">The correspondence</a> about the <i>Lingua</i> Editorial Board's collective resignation between Guido Vanden Wyngaerd, for the Board, and Chris Tancock (Senior Publisher, Elsevier), 27 October 2015.</i></li>
+	<li>My <a href="https://docs.wixstatic.com/ugd/d58ca7_a0a4e01ec09049f5883ea3e90207ab2b.pdf">letter of resignation</a> of 26 October 2015. The other editors sent similar letters.</i></li>
+	<li><a href="https://docs.wixstatic.com/ugd/d58ca7_9e13dfa160bc444385b069c1f7dc5749.pdf">Elsevier's response</a> of 16 October 2015, signed by Chris Tancock (Senior Publisher, Elsevier) to the <i>Lingua</i> editorial team's letter of renegotiation of 7 October 2015.</i></li>
+	<li><a href="https://docs.wixstatic.com/ugd/d58ca7_9c958ac8360748998d9b915cc944a306.pdf">Mail correspondence</a> with David Clark, Senior Vice President, Elsevier, of 16 October 2015, following up on our meeting at the <i>European Commission Workshop Alternative Open Access Publishing Models: Exploring New Territories in Scholarly Communication</i>. Brussels, 12 October 2015.</li>
+	<li>The <i>Lingua</i> editorial team's <a href="https://docs.wixstatic.com/ugd/d58ca7_3205107c953f4d97894c1f92419ffbb1.pdf">letter of renegotiation</a> to Elsevier to publish <i>Lingua</i> in Open Access on (what is now known as) <i>Fair Open Access Principles</i>, 7 October 2015.</i></li>
+</ol>
