@@ -9,4 +9,4 @@ url: /theoretical-workload-limit/
 
 This pretty much sums it up. I seem to have reached my theoretical workload limit:
 
-<img src="http://52.15.252.238/wp-content/uploads/2011/04/dilbert-brainoverload.png" alt="" width="640" height="287" class="alignnone size-full wp-image-657" />
+<img src="/images/dilbert-brainoverload.png" alt="" width="640" height="287" class="alignnone size-full wp-image-657" />

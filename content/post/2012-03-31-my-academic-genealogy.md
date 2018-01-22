@@ -7,7 +7,7 @@ title: My academic genealogy
 url: /my-academic-genealogy/
 ---
 
-<a href="http://academictree.org/linguistics/tree.php?pid=29761&amp;fontsize=3&amp;pnodecount=5&amp;cnodecount=2"><img class="size-full wp-image-721 aligncenter" src="http://kaivonfintel.org/wp-content/uploads/2012/03/stammbaum-part1.png" alt="" width="244" height="520" /></a>
+<a href="http://academictree.org/linguistics/tree.php?pid=29761&amp;fontsize=3&amp;pnodecount=5&amp;cnodecount=2"><img class="size-full wp-image-721 aligncenter" src="/images/stammbaum-part1.png" alt="" width="244" height="520" /></a>
 
 I received my PhD from UMass in 1994 with a dissertation called ["Restrictions on Quantifier Domains"](http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf). I started teaching at MIT in 1993 and was finishing my dissertation during my first year of teaching here. My dissertation advisor (Doktormutter, "doctor mother") was [Angelika Kratzer](http://people.umass.edu/kratzer/). There were other very strong influences, of course, chief among them Barbara Partee, but for the purposes of the tree I will go by formal dissertation advisor relationships where possible. I will find some other occasion to talk more about my own intellectual biography and research career.
 
@@ -15,7 +15,7 @@ I received my PhD from UMass in 1994 with a dissertation called ["Restrictions o
 
 ## Angelika Kratzer
 
-<img class="alignnone size-full wp-image-628" src="http://kaivonfintel.org/wp-content/uploads/2012/03/angelika.jpg" alt="" width="299" height="272" />
+<img class="alignnone size-full wp-image-628" src="/images/angelika.jpg" alt="" width="299" height="272" />
 
 There are many ways in which Angelika was the perfect doctor mother for me. But one aspect I want to highlight here is that just like me, she has a passion for the history of our field. Her dissertation abounds in historical connections, one of which that struck me early on was the emphasis on the contributions of [John Wallis](http://en.wikipedia.org/wiki/John_Wallis) [If you're interested in this kind of thing, John Wallis appears as a character in a fun novel: ["An Instance of the Fingerpost"](http://en.wikipedia.org/wiki/An_Instance_of_the_Fingerpost)]. This kind of historiographic interest was something I just soaked up. One of my early encounters with semantics, in fact, was a seminar taught by Professor Schepers of the Leibniz Research Institute in Münster on medieval semantics (William of Sherwood, William of Ockham, etc.) and other classes like that. For example, I learned to read Aristotle in the original and wrote one of my first college-level term papers on the notions of contradiction and contrariety in *Peri Hermeneias* (using not just the original but also medieval Arabic commentaries thereon).
 
@@ -29,17 +29,17 @@ Angelika wrote her dissertation entitled ["Semantik der Rede: Kontexttheorie –
 
 Angelika has shared with me this picture taken after her dissertation defense:
 
-<img class="alignnone size-full wp-image-629" src="http://kaivonfintel.org/wp-content/uploads/2012/03/dissertation-defense-1979.png" alt="" width="1279" height="1210" />
+<img class="alignnone size-full wp-image-629" src="/images/dissertation-defense-1979.png" alt="" width="1279" height="1210" />
 
 ## Urs Egli
 
 Urs Egli wrote a 1967 dissertation entitled "Zur stoischen Dialektik" at the University of Bern (Switzerland) under the direction of Willy Theiler. This information was a bit hard to find. I obtained an interlibrary loan copy of Egli's dissertation and there is a page with a statement from Dekan (Dean) Prof. Dr. E. Walder that the dissertation had been accepted by the philosophical-historical faculty of the University of Bern at the request of Herr Prof. Dr. W. Theiler. I show here the title page, the decanal note, and the vita from the end of the thesis (a traditional component of doctoral dissertations).
 
-<img class="alignnone size-full wp-image-630" src="http://kaivonfintel.org/wp-content/uploads/2012/03/egli-title.png" alt="" width="1110" height="1471" />
+<img class="alignnone size-full wp-image-630" src="/images/egli-title.png" alt="" width="1110" height="1471" />
 
-<img class="alignnone size-full wp-image-631" src="http://kaivonfintel.org/wp-content/uploads/2012/03/egli-vita.png" alt="" width="672" height="729" />
+<img class="alignnone size-full wp-image-631" src="/images/egli-vita.png" alt="" width="672" height="729" />
 
-<img class="alignnone size-full wp-image-632" src="http://kaivonfintel.org/wp-content/uploads/2012/03/egli-advisor.png" alt="" width="844" height="330" />
+<img class="alignnone size-full wp-image-632" src="/images/egli-advisor.png" alt="" width="844" height="330" />
 
 &nbsp;
 
@@ -59,11 +59,11 @@ Egli says that apart from his official genealogy through Theiler, von der Mühll
 
 [Willy Theiler](http://de.wikipedia.org/wiki/Willy_Theiler) (* 24. Oktober 1899 in Adliswil; died 26. Februar 1977 in Bern) taught at the universities of Königsberg (1932–1944) and Bern (1944–1968). Here's a photo of him from an [obituary article in the journal *Gnomon*](http://www.jstor.org/stable/27687013):
 
-<img class="alignnone size-full wp-image-633" src="http://kaivonfintel.org/wp-content/uploads/2012/03/theiler-photo.png" alt="" width="739" height="841" />
+<img class="alignnone size-full wp-image-633" src="/images/theiler-photo.png" alt="" width="739" height="841" />
 
 Theiler's dissertation "Zur Geschichte der teleologischen Naturbetrachtung bis auf Aristoteles" was filed at the University of Basel (also Switzerland) in 1924 (at the age of 25) under the direction of Peter von der Mühll. A [later edition](http://books.google.com/books?id=hdy4exr1GBQC) is in fact dedicated to von der Mühll.
 
-<img class="alignnone size-full wp-image-634" src="http://kaivonfintel.org/wp-content/uploads/2012/03/theiler-dedication.png" alt="" width="338" height="165" />
+<img class="alignnone size-full wp-image-634" src="/images/theiler-dedication.png" alt="" width="338" height="165" />
 
 According to Theiler's obituary, von der Mühll was an extraordinary teacher whose seminars attracted many young scholars over the years. Even though there were 43 years between Theiler's dissertation and Egli's dissertation, Egli writes in his acknowledgments that von der Mühll had helped him with some information about manuscript transmission. Theiler supervised 26 dissertations (and more at institutions other than the ones he was teaching at) over his career. He was an eminent philologist, specializing in ancient philosophy.
 
@@ -71,29 +71,29 @@ According to Theiler's obituary, von der Mühll was an extraordinary teacher who
 
 With [Peter von der Mühll](http://de.wikipedia.org/wiki/Peter_von_der_M%FChll) (* 1. August 1885 in Basel; died 13. Oktober 1970 also in Basel), the tree leaves Switzerland; he was Swiss and taught at Zürich and Basel, but he got his doctorate in Göttingen (Germany) in 1909 (at the age of 26) with a dissertation entitled ["De Aristotelis Ethicorum Eudemiorum auctoritate"](http://dx.doi.org/2027/uc1.b2619343) under the direction of Eduard Schwartz, who together with Jacob Wackernagel and Friedrich Leo made Göttingen a center of excellence in classic studies. From now on in the tree, all dissertations were written in Latin. This one is a mere 47 pages long and it has a DOI: 2027/uc1.b2619343. Unfortunately, Google's scan of the last page of the dissertation, which has a Vita including acknowledgments, is a bad scan cutting off the right side of the text, so it's not really useful, except that one can see that he acknowledges Wackernagel among others. So, I obtained a fresh scan from Harvard's Widener Library. I am posting [a four page excerpt](http://mit.edu/fintel/vondermuhll-thesis-excerpts.pdf) with the title, dedication, and Vita pages.
 
-<img class="alignnone size-full wp-image-635" src="http://kaivonfintel.org/wp-content/uploads/2012/03/vondermuhll-thesistitle.png" alt="" width="908" height="1425" />
+<img class="alignnone size-full wp-image-635" src="/images/vondermuhll-thesistitle.png" alt="" width="908" height="1425" />
 
-<img class="alignnone size-full wp-image-636" src="http://kaivonfintel.org/wp-content/uploads/2012/03/vondermuhll-thesisvita.png" alt="" width="856" height="1256" />
+<img class="alignnone size-full wp-image-636" src="/images/vondermuhll-thesisvita.png" alt="" width="856" height="1256" />
 
 &nbsp;
 
 Von der Mühll didn't publish all that much in his career, focusing on his teaching, advising, and on administrative duties (he was rector of the University of Basel for a while). Here's a photo (again from [an obituary article in *Gnomon*](http://www.jstor.org/stable/27685259)):
 
-<img class="alignnone size-full wp-image-637" src="http://kaivonfintel.org/wp-content/uploads/2012/03/vondermuhll-photo.png" alt="" width="556" height="808" />
+<img class="alignnone size-full wp-image-637" src="/images/vondermuhll-photo.png" alt="" width="556" height="808" />
 
 ## Eduard Schwartz
 
 [Eduard Schwartz](http://de.wikipedia.org/wiki/Eduard_Schwartz) (* 22. August 1858 in Kiel; died 13. Februar 1940 in München) was mainly trained at the University of Bonn (when I lived in Cologne and regularly visited Bonn, the Intercity trains used to announce that Bonn was the birth place of the composer Ludwig van Beethoven and the capital of the Federal Republic of Germany ... in that order).
 
-<img class="alignnone size-full wp-image-638" src="http://kaivonfintel.org/wp-content/uploads/2012/03/eduard_schwartz.jpeg" alt="" width="199" height="298" />
+<img class="alignnone size-full wp-image-638" src="/images/eduard_schwartz.jpeg" alt="" width="199" height="298" />
 
 He received his doctorate there with a dissertation entitled ["De Dionysio Scytobrachione"](http://books.google.com/books?id=XjcBAAAAMAAJ) (freely downloadable as a pdf from Google Books) in 1880 (at the age of 22; note that the ages at which these academic ancestors got their degrees are decreasing as we go back in time, indicating how professionalized the discipline has become over time). His co-advisors were Franz Bücheler and Hermann Usener. His dissertation has a list of 11 controversial theses at the end (a feature you can still see in linguistics dissertations from the Netherlands, and which recurs in the dissertations further up the tree). The title page lists three fellow students who served as the disputants at the defense (again, a traditional component of doctoral dissertations for a while). His doctorfathers are acknowledged on the next page in the dedication, and his vita contains a list of other teachers.
 
-<img class="alignnone size-full wp-image-639" src="http://kaivonfintel.org/wp-content/uploads/2012/03/schwartz-thesistitle.png" alt="" width="585" height="1024" />
+<img class="alignnone size-full wp-image-639" src="/images/schwartz-thesistitle.png" alt="" width="585" height="1024" />
 
-<img class="alignnone size-full wp-image-640" src="http://kaivonfintel.org/wp-content/uploads/2012/03/schwartz-thesisvita.png" alt="" width="624" height="622" />
+<img class="alignnone size-full wp-image-640" src="/images/schwartz-thesisvita.png" alt="" width="624" height="622" />
 
-<img class="alignnone size-full wp-image-641" src="http://kaivonfintel.org/wp-content/uploads/2012/03/schwartz-thesisdedication.png" alt="" width="489" height="318" />
+<img class="alignnone size-full wp-image-641" src="/images/schwartz-thesisdedication.png" alt="" width="489" height="318" />
 
 &nbsp;
 

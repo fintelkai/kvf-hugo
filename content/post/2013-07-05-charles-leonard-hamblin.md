@@ -42,4 +42,4 @@ Francisco asked me whether Hamblin's thesis is available online. After some digg
 
 You have to register for free and go through some hoops but in the end you will be able to download a pdf of Hamblin's thesis. Here's the cover page:
 
-<img src="http://52.15.252.238/wp-content/uploads/2013/07/hamblin-thesis-coverpage.jpg" alt="" width="3616" height="2458" class="alignnone size-full wp-image-617" />
+<img src="/images/hamblin-thesis-coverpage.jpg" alt="" width="3616" height="2458" class="alignnone size-full wp-image-617" />
