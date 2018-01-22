@@ -16,6 +16,7 @@ theme = "minimal"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["haskell", "latex"]
+    css = ["/css/custom.css"]
 
 [permalinks]
   post = "/:slug/"
