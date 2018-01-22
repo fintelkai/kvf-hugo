@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2015-01-08T19:00:00Z
-guid: http://52.15.252.238/?p=468
-id: 468
 tags:
 - geek
 title: Get cloaked!

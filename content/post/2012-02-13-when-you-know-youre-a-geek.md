@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-02-13T19:00:00Z
-guid: http://52.15.252.238/?p=408
-id: 408
 tags:
 - geek
 title: When you know you&#8217;re a geek

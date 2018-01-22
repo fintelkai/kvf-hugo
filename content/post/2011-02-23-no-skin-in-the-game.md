@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:42:"//people.ucsc.edu/~pullum/goldenrules.html";a:1:{s:9:"timestamp";i:1502662406;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2011-02-23T19:00:00Z
-guid: http://52.15.252.238/?p=366
-id: 366
 tags:
 - academia
 - advice

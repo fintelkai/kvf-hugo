@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:55:"//drosophiliac.com/2013/01/tiny-six-legged-animals.html";a:1:{s:9:"timestamp";i:1502660582;}s:54:"//www2.kenyon.edu/Depts/Math/Milnikel/boolos-godel.pdf";a:1:{s:9:"timestamp";i:1502660582;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2013-01-18T19:00:00Z
-guid: http://52.15.252.238/?p=432
-id: 432
 tags:
 - fun
 - semantics

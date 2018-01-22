@@ -1,17 +1,10 @@
 ---
-amazonS3_cache:
-- a:1:{s:54:"//semanticsarchive.net/Archive/Tg5ZWU3Y/ek-witness.pdf";a:1:{s:9:"timestamp";i:1502710552;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-12-29T19:00:00Z
-guid: http://52.15.252.238/?p=496
-id: 496
 tags:
 - memories
 - publications
 - work
-title: Keenan &#038; I on witnesses
+title: Keenan & I on witnesses
 url: /fintel-keenan-witnesses/
 ---
 

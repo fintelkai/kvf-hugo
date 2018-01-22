@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-02-22T19:00:00Z
-guid: http://52.15.252.238/?p=486
-id: 486
 tags:
 - memories
 title: Echoes of Eco

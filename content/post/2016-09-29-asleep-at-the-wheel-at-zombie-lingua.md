@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:3:{s:28:"//eis.hu.edu.jo/cv/11207.pdf";a:1:{s:9:"timestamp";i:1502656830;}s:28:"//eis.hu.edu.jo/cv/11218.pdf";a:1:{s:9:"timestamp";i:1502656830;}s:36:"//hu.edu.jo/fac/dept/DepDefault.aspx";a:1:{s:9:"timestamp";i:1502656830;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-09-29T20:00:00Z
-guid: http://52.15.252.238/?p=494
-id: 494
 tags:
 - glossa
 - open access

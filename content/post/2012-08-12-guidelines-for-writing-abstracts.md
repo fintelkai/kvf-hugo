@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:3:{s:53:"//www.unc.edu/linguistics/confinfo_files/hil-tips.pdf";a:1:{s:9:"timestamp";i:1502661062;}s:42:"//web.mit.edu/fintel/Rooryck&vanHeuven.pdf";a:1:{s:9:"timestamp";i:1502661227;}s:46:"//web.mit.edu/fintel/Rooryck&amp;vanHeuven.pdf";a:1:{s:9:"timestamp";i:1502661227;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-08-12T20:00:00Z
-guid: http://52.15.252.238/?p=422
-id: 422
 tags:
 - advice
 - publishing

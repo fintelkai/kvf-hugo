@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2013-01-13T19:00:00Z
-guid: http://52.15.252.238/?p=430
-id: 430
 tags:
 - open access
 title: Statement on Aaron Swartz

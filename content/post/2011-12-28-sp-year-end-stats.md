@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2011-12-28T19:00:00Z
-guid: http://52.15.252.238/?p=392
-id: 392
 tags:
 - open access
 - publishing

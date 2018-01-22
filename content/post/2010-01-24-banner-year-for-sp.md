@@ -1,17 +1,10 @@
 ---
-amazonS3_cache:
-- a:2:{s:27:"//dx.doi.org/10.3765/sp.3.1";a:1:{s:9:"timestamp";i:1502662891;}s:27:"//dx.doi.org/10.3765/sp.3.2";a:1:{s:9:"timestamp";i:1502662891;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2010-01-24T19:00:00Z
-guid: http://52.15.252.238/?p=346
-id: 346
 tags:
 - open access
 - publishing
 - S&amp;P
-title: Banner Year for S&#038;P
+title: Banner Year for S&P
 url: /banner-year-for-sp/
 ---
 

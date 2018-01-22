@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:11:{s:68:"//docs.wixstatic.com/ugd/d58ca7_7a4c30ca5c704089b3be9e22e255a314.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_14a134674cdf447ea4b968b76a4b68fa.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_6fe6dd36d9c44569aaa2fc69a09230c1.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_1bd7b8585ed349e4902dbeee0bd9425a.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_131c763365864ce2b546165c4ece1cac.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_4e5180da60ba4c2a87a409a0f2e39a2d.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_9fe61d23b46f4566a31e9a7e2ee157ce.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_a0a4e01ec09049f5883ea3e90207ab2b.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_9e13dfa160bc444385b069c1f7dc5749.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_9c958ac8360748998d9b915cc944a306.pdf";a:1:{s:9:"timestamp";i:1503065471;}s:68:"//docs.wixstatic.com/ugd/d58ca7_3205107c953f4d97894c1f92419ffbb1.pdf";a:1:{s:9:"timestamp";i:1503065471;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2017-08-18T10:17:34Z
-guid: http://kaivonfintel.org/?p=708
-id: 708
 tags:
 - glossa
 - open access

@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:41:"//stellar.mit.edu/S/course/24/fa17/24.979";a:1:{s:9:"timestamp";i:1504113068;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2017-08-30T13:13:28Z
-guid: http://kaivonfintel.org/?p=715
-id: 715
 tags:
 - teaching
 title: The Linguistics of Desire

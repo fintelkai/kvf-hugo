@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:9:{s:111:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813171345/2014-10-24_dspace_download_numbers.png";i:585;s:118:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813171345/2014-10-24_dspace_download_numbers-300x41.png";i:585;s:81:"//52.15.252.238/wp-content/uploads/2014/10/2014-10-24_dspace_download_numbers.png";i:585;s:88:"//52.15.252.238/wp-content/uploads/2014/10/2014-10-24_dspace_download_numbers-300x41.png";i:585;s:100:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813171406/2014-10-24_dspace_graph.png";i:586;s:108:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813171406/2014-10-24_dspace_graph-300x228.png";i:586;s:70:"//52.15.252.238/wp-content/uploads/2014/10/2014-10-24_dspace_graph.png";i:586;s:78:"//52.15.252.238/wp-content/uploads/2014/10/2014-10-24_dspace_graph-300x228.png";i:586;s:27:"//oastats.mit.edu/index.php";a:1:{s:9:"timestamp";i:1502658868;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-10-23T20:00:00Z
-guid: http://52.15.252.238/?p=454
-id: 454
 tags:
 - open access
 - publishing

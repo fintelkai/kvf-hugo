@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:4:{s:119:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813171800/zits-2014-04-07-wouldbehealthy-implicature.gif";i:592;s:126:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813171800/zits-2014-04-07-wouldbehealthy-implicature-300x96.gif";i:592;s:89:"//52.15.252.238/wp-content/uploads/2014/04/zits-2014-04-07-wouldbehealthy-implicature.gif";i:592;s:96:"//52.15.252.238/wp-content/uploads/2014/04/zits-2014-04-07-wouldbehealthy-implicature-300x96.gif";i:592;}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-04-07T20:00:00Z
-guid: http://52.15.252.238/?p=448
-id: 448
 tags:
 - fun
 title: Fruits and veggies would be healthy

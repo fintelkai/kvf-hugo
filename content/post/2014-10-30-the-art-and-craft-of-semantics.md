@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-10-30T20:00:00Z
-guid: http://52.15.252.238/?p=456
-id: 456
 tags:
 - semantics
 title: The art and craft of semantics

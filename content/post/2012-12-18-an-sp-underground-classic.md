@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:3:{s:27:"//dx.doi.org/10.3765/sp.5.6";a:1:{s:9:"timestamp";i:1502749986;}s:27:"//dx.doi.org/10.3765/sp.5.7";a:1:{s:9:"timestamp";i:1502749986;}s:39:"//dx.doi.org/10.1162/ling.2009.40.3.367";a:1:{s:9:"timestamp";i:1502749986;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-12-18T19:00:00Z
-guid: http://52.15.252.238/?p=426
-id: 426
 tags:
 - open access
 - publishing

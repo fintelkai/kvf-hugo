@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:26:"//russell-j.com/0583TS.HTM";a:1:{s:9:"timestamp";i:1502657195;}s:90:"//www.linguisticsociety.org/sites/default/files/Imposter%20Syndrome%202015%20Institute.pdf";a:1:{s:9:"timestamp";i:1502657195;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-08-27T20:00:00Z
-guid: http://52.15.252.238/?p=492
-id: 492
 tags:
 - academia
 - advice

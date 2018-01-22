@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2011-05-16T20:00:00Z
-guid: http://52.15.252.238/?p=372
-id: 372
 tags:
 - fun
 - semantics

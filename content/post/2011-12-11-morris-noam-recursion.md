@@ -1,17 +1,10 @@
 ---
-amazonS3_cache:
-- a:2:{s:98:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813180849/morris-noam-recursion.jpg";i:651;s:68:"//52.15.252.238/wp-content/uploads/2011/12/morris-noam-recursion.jpg";i:651;}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2011-12-11T19:00:00Z
-guid: http://52.15.252.238/?p=388
-id: 388
 tags:
 - academia
 - fun
 - memories
-title: Morris &#038; Noam Recursion
+title: Morris & Noam Recursion
 url: /morris-noam-recursion/
 ---
 

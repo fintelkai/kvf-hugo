@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:27:"//dx.doi.org/10.3765/sp.8.3";a:1:{s:9:"timestamp";i:1502658111;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2015-01-13T19:00:00Z
-guid: http://52.15.252.238/?p=470
-id: 470
 tags:
 - publishing
 title: Treat your reviewers well

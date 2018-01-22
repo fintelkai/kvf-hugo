@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:3:{s:33:"//dx.doi.org/10.1038/nchembio.310";a:1:{s:9:"timestamp";i:1502662850;}s:27:"//dx.doi.org/10.3765/sp.0.1";a:1:{s:9:"timestamp";i:1502662850;}s:61:"//linguistlist.org/pubs/tocs/JournalUnifiedStyleSheet2007.pdf";a:1:{s:9:"timestamp";i:1502662850;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2010-01-26T19:00:00Z
-guid: http://52.15.252.238/?p=348
-id: 348
 tags:
 - advice
 - publishing

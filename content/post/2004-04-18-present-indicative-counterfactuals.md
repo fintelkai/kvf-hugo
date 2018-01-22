@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:40:"//web.mit.edu/fintel/www/subjunctive.pdf";a:1:{s:9:"timestamp";i:1502663057;}s:47:"//listserv.linguistlist.org/archives/ads-l.html";a:1:{s:9:"timestamp";i:1502663057;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2004-04-18T20:00:00Z
-guid: http://52.15.252.238/?p=342
-id: 342
 tags:
 - semantics
 title: Present Indicative Counterfactuals

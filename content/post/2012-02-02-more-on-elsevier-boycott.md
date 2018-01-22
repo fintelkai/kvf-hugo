@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:4:{s:141:"//www.techdirt.com/articles/20120130/13030217589/will-academics-boycott-elsevier-be-tipping-point-open-access-another-embarrassing-flop.shtml";a:1:{s:9:"timestamp";i:1502661937;}s:109:"//arstechnica.com/science/news/2012/01/researchers-boycott-publisher-will-they-embrace-instant-publishing.ars";a:1:{s:9:"timestamp";i:1502661937;}s:63:"//boingboing.net/2012/01/31/scientists-boycott-elsevier-ov.html";a:1:{s:9:"timestamp";i:1502661937;}s:82:"//news.sciencemag.org/scienceinsider/2012/02/thousands-of-scientists-vow-to-b.html";a:1:{s:9:"timestamp";i:1502661937;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-02-02T19:00:00Z
-guid: http://52.15.252.238/?p=402
-id: 402
 tags:
 - publishing
 title: More on Elsevier Boycott

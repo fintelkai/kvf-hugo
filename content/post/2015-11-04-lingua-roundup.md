@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:77:"//www.huffingtonpost.co.uk/curt-rice/the-communications-guy-be_b_4788196.html";a:1:{s:9:"timestamp";i:1502657813;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2015-11-04T19:00:00Z
-guid: http://52.15.252.238/?p=474
-id: 474
 tags:
 - glossa
 - open access

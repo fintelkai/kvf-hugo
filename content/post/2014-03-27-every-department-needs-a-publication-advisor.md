@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:107:"//www.spiegel.de/wissenschaft/medizin/uni-konstanz-stoppt-verhandlungen-mit-elsevier-zu-teuer-a-961084.html";a:1:{s:9:"timestamp";i:1502659369;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-03-27T20:00:00Z
-guid: http://52.15.252.238/?p=444
-id: 444
 tags:
 - academia
 - publishing

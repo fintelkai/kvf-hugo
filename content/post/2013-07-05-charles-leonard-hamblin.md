@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:5:{s:101:"//s3-us-east-2.amazonaws.com/kvf-media/wp-content/uploads/20170813174056/hamblin-thesis-coverpage.jpg";i:617;s:71:"//52.15.252.238/wp-content/uploads/2013/07/hamblin-thesis-coverpage.jpg";i:617;s:83:"//web.archive.org/web/20031216233842/http://www.csc.liv.ac.uk/%7Epeter/hamblin.html";a:1:{s:9:"timestamp";i:1502660471;}s:104:"//web.archive.org/web/20031224215629/http://www.csc.liv.ac.uk/~peter/this-month/this-month-3-030303.html";a:1:{s:9:"timestamp";i:1502660471;}s:29:"//ethos.bl.uk/OrderDetails.do";a:1:{s:9:"timestamp";i:1502660471;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2013-07-05T20:00:00Z
-guid: http://52.15.252.238/?p=434
-id: 434
 tags:
 - academia
 - memories

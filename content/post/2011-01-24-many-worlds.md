@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:5:{s:41:"//stellar.mit.edu/S/course/24/sp11/24.973";a:1:{s:9:"timestamp";i:1502662636;}s:53:"//space.mit.edu/home/tegmark/PDF/multiverse_sciam.pdf";a:1:{s:9:"timestamp";i:1502662636;}s:45:"//muller.lbl.gov/teaching/Physics10/PffP.html";a:1:{s:9:"timestamp";i:1502662636;}s:29:"//www.hedweb.com/manworld.htm";a:1:{s:9:"timestamp";i:1502662636;}s:39:"//space.mit.edu/home/tegmark/crazy.html";a:1:{s:9:"timestamp";i:1502662636;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2011-01-24T19:00:00Z
-guid: http://52.15.252.238/?p=360
-id: 360
 tags:
 - semantics
 title: Many worlds

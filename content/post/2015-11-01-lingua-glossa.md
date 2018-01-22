@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:40:"//web.mit.edu/fnl/volume/244/holton.html";a:1:{s:9:"timestamp";i:1502657924;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2015-11-01T19:00:00Z
-guid: http://52.15.252.238/?p=472
-id: 472
 tags:
 - glossa
 - open access

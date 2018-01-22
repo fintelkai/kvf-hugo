@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:51:"//scholar.google.com/intl/en/scholar/citations.html";a:1:{s:9:"timestamp";i:1502661268;}s:80:"//googlescholar.blogspot.com/2012/08/scholar-updates-making-new-connections.html";a:1:{s:9:"timestamp";i:1502661268;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-08-08T20:00:00Z
-guid: http://52.15.252.238/?p=420
-id: 420
 tags:
 - academia
 - geek

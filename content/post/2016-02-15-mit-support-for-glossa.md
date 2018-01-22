@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:1:{s:32:"//www2.ru.nl/sendbox/display.php";a:1:{s:9:"timestamp";i:1502657560;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-02-15T19:00:00Z
-guid: http://52.15.252.238/?p=484
-id: 484
 tags:
 - glossa
 - open access

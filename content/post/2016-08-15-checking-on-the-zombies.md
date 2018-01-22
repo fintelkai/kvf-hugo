@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-08-15T20:00:00Z
-guid: http://52.15.252.238/?p=490
-id: 490
 tags:
 - glossa
 - open access

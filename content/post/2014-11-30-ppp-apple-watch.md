@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-11-30T19:00:00Z
-guid: http://52.15.252.238/?p=462
-id: 462
 tags:
 - geek
 title: Apple Watch Purchase Prevention

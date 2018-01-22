@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:70:"//vlt.se/nyheter/vasteras/1.1699287-falsk-e-post-pastas-komma-fran-vlt";a:1:{s:9:"timestamp";i:1502660920;}s:35:"//whois.domaintools.com/cestagi.com";a:1:{s:9:"timestamp";i:1502660920;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-09-12T20:00:00Z
-guid: http://52.15.252.238/?p=424
-id: 424
 tags:
 - publishing
 - scams

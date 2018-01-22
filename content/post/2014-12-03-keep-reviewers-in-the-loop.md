@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-12-03T19:00:00Z
-guid: http://52.15.252.238/?p=464
-id: 464
 tags:
 - academia
 title: Keep reviewers in the loop

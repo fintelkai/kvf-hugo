@@ -1,11 +1,6 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2018-01-18T11:58:37Z
-guid: http://kaivonfintel.org/?p=730
-id: 730
-title: von Fintel &#038; Keenan 2018
+title: von Fintel & Keenan 2018
 url: /von-fintel-keenan-2018/
 ---
 

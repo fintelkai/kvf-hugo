@@ -1,16 +1,11 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2015-11-26T19:00:00Z
-guid: http://52.15.252.238/?p=476
-id: 476
 tags:
 - glossa
 - open access
 - publishing
 - zombie lingua
-title: <em>Lingua</em> Disinformation
+title: Lingua Disinformation
 url: /lingua-disinformation/
 ---
 

@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:28:"//www.sobco.com/sob/sob.html";a:1:{s:9:"timestamp";i:1502658502;}s:30:"//www.ietf.org/rfc/rfc2119.txt";a:1:{s:9:"timestamp";i:1502658502;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2014-11-12T19:00:00Z
-guid: http://52.15.252.238/?p=460
-id: 460
 tags:
 - semantics
 title: MUST and SHOULD figured out

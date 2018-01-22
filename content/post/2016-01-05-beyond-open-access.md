@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:82:"//www.nature.com/news/leading-mathematician-launches-arxiv-overlay-journal-1.18351";a:1:{s:9:"timestamp";i:1502657614;}s:83:"//www.nature.com/news/open-journals-that-piggyback-on-arxiv-gather-momentum-1.19102";a:1:{s:9:"timestamp";i:1502657614;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2016-01-05T19:00:00Z
-guid: http://52.15.252.238/?p=480
-id: 480
 tags:
 - open access
 - publishing

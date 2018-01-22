@@ -1,12 +1,5 @@
 ---
-amazonS3_cache:
-- a:2:{s:31:"//isites.harvard.edu/icb/icb.do";a:1:{s:9:"timestamp";i:1502661335;}s:40:"//web.mit.edu/fnl/volume/244/holton.html";a:1:{s:9:"timestamp";i:1502661335;}}
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2012-04-24T20:00:00Z
-guid: http://52.15.252.238/?p=414
-id: 414
 tags:
 - open access
 - publishing

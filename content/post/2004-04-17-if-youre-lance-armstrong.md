@@ -1,10 +1,5 @@
 ---
-author: Kai von Fintel
-categories:
-- Uncategorized
 date: 2004-04-17T20:00:00Z
-guid: http://52.15.252.238/?p=340
-id: 340
 tags:
 - semantics
 title: If you&#8217;re Lance Armstrong, &#8230;
