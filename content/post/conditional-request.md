@@ -9,4 +9,4 @@ url: /conditional-request/
 
 Today's Zits comic is one for conditionals afficionados:
 
-<img class="alignnone wp-image-565" src="/images/Zits.20120716_large.gif" alt="" width="500" height="160" />
+<img src="/images/Zits.20120716_large.gif" />

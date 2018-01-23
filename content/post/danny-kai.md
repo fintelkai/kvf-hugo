@@ -8,4 +8,4 @@ url: /danny-kai/
 
 Sabine took this while I was chairing the semantics session at Ling50@MIT, where Danny and Philippe were the speakers:
 
-<img src="/images/danny-kai.jpg" alt="" width="3168" height="4752" class="alignnone size-full wp-image-653" />
+<img src="/images/danny-kai.jpg"/>

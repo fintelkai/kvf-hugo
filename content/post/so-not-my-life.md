@@ -9,6 +9,6 @@ url: /so-not-my-life/
 
 This is so very much *not* my life:
 
-<img class="alignnone size-full wp-image-667" src="/images/snooze.gif" alt="" width="600" height="278" />
+<img src="/images/snooze.gif" />
 
 What's a snooze button? Can I have one?

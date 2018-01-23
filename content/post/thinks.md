@@ -4,7 +4,7 @@ title: David Lodge Thinks &#8230;
 url: /thinks/
 ---
 
-<img class="wp-image-726 alignleft" src="/images/thinks.jpg" alt="" width="190" height="288" />
+<img src="/images/thinks.jpg" />
 
 A tip for a cognitive science novel:
 

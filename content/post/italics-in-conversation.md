@@ -6,4 +6,4 @@ title: Italics in conversation
 url: /italics-in-conversation/
 ---
 
-<img src="/images/italics.gif" alt="" width="900" height="284" class="alignnone size-full wp-image-665" />
+<img src="/images/italics.gif" class="alignnone size-full wp-image-665" />

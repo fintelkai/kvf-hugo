@@ -7,7 +7,7 @@ title: My Academic Genealogy &#8211; Part 2
 url: /my-academic-genealogy-part-2/
 ---
 
-<a href="http://academictree.org/linguistics/tree.php?pid=48666&fontsize=3&pnodecount=3&cnodecount=2"><img src="/images/genealogy-2.png" alt="" width="879" height="363" class="alignnone size-full wp-image-703" /></a>
+<a href="http://academictree.org/linguistics/tree.php?pid=48666&fontsize=3&pnodecount=3&cnodecount=2"><img src="/images/genealogy-2.png" class="alignnone size-full wp-image-703" /></a>
 
 This is the second part of my reconstruction of my academic lineage, in which we encounter someone whose dissertation defense lasted seven hours and someone else who basically compiled his dissertation the night before it was due.
 
@@ -20,17 +20,17 @@ Bücheler & Usener
 
 Usener and Bücheler were the twin towers of classical philology in Bonn, lifelong friends, and jointly advised plenty of other students besides Schwartz. Here are pictures of them:
 
-<img src="/images/bucheler-picture.png" alt="" width="449" height="555" class="alignnone size-full wp-image-601" /><img src="/images/usener-picture.png" alt="" width="445" height="561" class="alignnone size-full wp-image-602" />
+<img src="/images/bucheler-picture.png" class="alignnone size-full wp-image-601" /><img src="/images/usener-picture.png" class="alignnone size-full wp-image-602" />
 
 With them, the tree branches in an interesting way. Bücheler and Usener both got their degrees in Bonn (Bücheler in 1856 at the age of 18 (!) and Usener in 1858 at the age of 24). Both of them had two advisors, as far as I can tell, and they shared one of them.
 
 [Franz Bücheler](http://de.wikipedia.org/wiki/Franz_B%C3%BCcheler) (* 3. Juni 1837 in Rheinberg; † 3. Mai 1908 in Bonn) graduated on March 13, 1856 in Bonn with a dissertation entitled ["De Ti. Claudio Caesare Grammatico"](http://books.google.com/books?id=lSg9AAAAcAAJ) (freely downloadable from Google), which deals with Latin orthography during the time of Emperor Claudius. He lists as advisors Friedrich Gottlieb Welcker and Friedrich Ritschl. Here are the title page and the vita from his dissertation:
 
-<img src="/images/bucheler-thesistitle.png" alt="" width="659" height="1085" class="alignnone size-full wp-image-603" /><img src="/images/bucheler-thesisvita.png" alt="" width="647" height="660" class="alignnone size-full wp-image-604" />
+<img src="/images/bucheler-thesistitle.png" class="alignnone size-full wp-image-603" /><img src="/images/bucheler-thesisvita.png" class="alignnone size-full wp-image-604" />
 
 [Hermann Carl Usener](http://de.wikipedia.org/wiki/Hermann_Usener) (* 23. Oktober 1834 in Weilburg; † 21. Oktober 1905 in Bonn) wrote a dissertation called ["Analecta Theophrastea"](http://opacplus.bsb-muenchen.de/search?oclcno=15528549) (freely viewable and downloadable from the library in Munich). He dedicates the work to his two main teachers: Christian August Brandis and, again, Friedrich Ritschl. Here are the title page, dedication, and vita from the dissertation:
 
-<img src="/images/usener-thesistitle.png" alt="" width="2137" height="3702" class="alignnone size-full wp-image-605" /><img src="/images/usener-thesis-dedication.png" alt="" width="2047" height="1864" class="alignnone size-full wp-image-606" /><img src="/images/usener-thesis-vita.png" alt="" width="2211" height="2907" class="alignnone size-full wp-image-607" />
+<img src="/images/usener-thesistitle.png" class="alignnone size-full wp-image-605" /><img src="/images/usener-thesis-dedication.png" class="alignnone size-full wp-image-606" /><img src="/images/usener-thesis-vita.png" class="alignnone size-full wp-image-607" />
 
 The Bonn-centrism of this period of our genealogy is both personally appropriate (given my years in nearby Cologne and my frequent visits to Bonn) and historically non-accidental: Bonn was a pre-eminent center of classical philology. A history of the University of Bonn points out the two successive triumvirats of classical philology that taught in Bonn: Usener, Bücheler, and Kekulé, and before them, Welcker, Ritschl, Jahn. The author claims that these six would have to be mentioned among the twelve most important scholars in classical studies during the 19th century. In fact, Wilamowitz is quoted as saying that the history of classical philology simply is the history of Bonn's philological seminar.
 
@@ -39,18 +39,18 @@ Continuing from Usener and Bücheler, there are now three ancestors to look at: 
 Brandis
 -------
 
-<img src="/images/brandis-picture.jpg" alt="" width="639" height="870" class="alignnone size-full wp-image-608" />
+<img src="/images/brandis-picture.jpg" class="alignnone size-full wp-image-608" />
 
 [Christian August Brandis](http://de.wikipedia.org/wiki/Christian_August_Brandis) (* 13. Februar 1790 in Holzminden; † 21. Juli 1867 in Bonn) graduated on January 12, 1812 (at the age of 21) at the University of Copenhagen, with a thesis ["Commentationes Eleaticarum"](http://books.google.com/books?id=nro-AAAAcAAJ) (a collection of fragments from Xenophanes, Parmenides and Melissus). He had studied at the University of Kiel before, starting at the age of 18 (so it took him little more than 3 years to get his first degree). Brandis doesn't seem to have had a clear advising relationship with anyone. I haven't found out who, if anyone, might have been his sponsor in Copenhagen. Even his autobiographic sketch doesn't include any mention of teachers or advisors in Copenhagen, just a list of people he hung out with. He does say that his defense lasted seven hours, so maybe that left such a scar that he repressed the memories. In any case, unless I manage to find out more, this branch of the tree ends with Brandis. Here is the title page of his thesis:
 
-<img src="/images/brandis-thesistitle.png" alt="" width="496" height="880" class="alignnone size-full wp-image-609" />
+<img src="/images/brandis-thesistitle.png" class="alignnone size-full wp-image-609" />
 
 There is no vita or dedication in the thesis.
 
 Welcker
 -------
 
-<img src="/images/welcker-picture.jpg" alt="" width="683" height="931" class="alignnone size-full wp-image-610" />
+<img src="/images/welcker-picture.jpg" class="alignnone size-full wp-image-610" />
 
 [Friedrich Gottlieb Welcker](http://de.wikipedia.org/wiki/Friedrich_Gottlieb_Welcker) (* 4. November 1784 in Grünberg; † 17. Dezember 1868 in Bonn) studied classical philology at the University of Giessen. He had to earn his keep by teaching at a kind of prep school and in his free time wrote his dissertation "Exercitatio philologica imaginem Ulyssis quae in Iliade exstat adumbrans", which got him his doctorate two days before Christmas 1803 (when he was barely 19 years old). (I have not been able to access the work.) Welcker was home-schooled as a youth and seems to have continued mainly as an autodidact, so just like with Brandis, the tree ends with his node.
 
@@ -63,7 +63,7 @@ I should note that another of Welcker's students, Friedrich Christian Dietz, has
 Ritschl
 -------
 
-<img src="/images/ritschl-picture.jpg" alt="" width="837" height="1189" class="alignnone size-full wp-image-611" />
+<img src="/images/ritschl-picture.jpg" class="alignnone size-full wp-image-611" />
 
 [Friedrich Wilhelm Ritschl](http://de.wikipedia.org/wiki/Friedrich_Wilhelm_Ritschl) (* 6. April 1806 in Großvargula (Thüringen); † 9. November 1876 in Leipzig) got his degree at the University of Halle in 1829 (at the age of 23). He taught at various universities but for the longest time in Bonn. He is the founder of the Bonn School of Classical Philology and thus was perhaps the true ancestor of Usener, Bücheler, Schwartz, von der Mühll, and Theiler, and thus of Egli, Kratzer, and myself. To see the topics that he covered in his teaching, we can inspect [the list of all of the classes he taught when he was at the University of Leipzig](http://histvv.uni-leipzig.de/dozenten/ritschl_f.html) from 1866 to 1876.
 
@@ -85,7 +85,7 @@ After Reisig's death, Ritschl was without a doctor father. But Meier took the hi
 
 Here is the title page of [the dissertation](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10847522-9), which is available from the Bavarian State Library:
 
-<img src="/images/ritschl-thesistitle.png" alt="" width="651" height="1191" class="alignnone size-full wp-image-612" />
+<img src="/images/ritschl-thesistitle.png" class="alignnone size-full wp-image-612" />
 
 I already mentioned that there will be more to say about the Hermann-Böckh feud. But clearly, bad blood arose easily in those days. Ritschl was the central party in the so-called ["Philology War of Bonn"](http://de.wikipedia.org/wiki/Bonner_Philologenstreit). The gist: Ritschl wanted to hire an additional faculty member to strengthen classical philology in Bonn when his colleague Welcker was getting on in years. He chose Otto Jahn and got him hired without Welcker's knowledge, while Welcker was abroad on sabbatical. Welcker wasn't all too thrilled when he found out. Jahn tried hard to become Welcker's friend, which angered Ritschl. Years later, Jahn tried to get his friend Hermann Sauppe hired, this time behind *Ritschl's* back. Sauppe in the end didn't accept the offer, but Ritschl went ballistic and started a campaign against Jahn. Ritschl was reprimanded by the ministry of education, the press got riled up, the parliament discussed the case. Fun and games. In the end, Ritschl left Bonn to take a position in Leipzig. Soon though, Bücheler and Usener restored Bonn Philology to its leading status.
 

@@ -16,4 +16,4 @@ Depending on whether one surmises that she would like to stay awake, one can inf
 
 The April 7, 2014 issue of the "Zits" cartoon gives us a new illustration:
 
-<img class="alignnone size-full wp-image-592" src="/images/zits-2014-04-07-wouldbehealthy-implicature.gif" alt="" width="640" height="205" />
+<img src="/images/zits-2014-04-07-wouldbehealthy-implicature.gif" />

@@ -1,5 +1,5 @@
 ---
-date: 2016-12-29T19:00:00Z
+date: 2018-01-22
 tags:
 - memories
 - publications
@@ -12,6 +12,12 @@ In the fall of 1984, just back from half a year at Cambridge University, I switc
 
 During my time as a graduate student, I met Ed several times at various conferences where I was presenting my work on exceptive phrases. One time he was in Amherst to give talks about the semantics of reflexives and the two of us spent a pleasant afternoon in the Black Sheep calculating and speculating about various technical ideas in generalized quantifier theory that had come up in my work.
 
-* von Fintel, Kai and Edward L. Keenan. 2016. Determiners, Conservativity, Witnesses. <http://semanticsarchive.net/Archive/Tg5ZWU3Y/ek-witness.pdf>.
+Fast forward 25 years or so, and we've co-authored a paper:
+
+Kai von Fintel and Edward L Keenan. 2018. Determiners, Conservativity, Witnesses. <em>Journal of Semantics</em>, <a href="https://doi.org/10.1093/jos/ffx018">https://doi.org/10.1093/jos/ffx018.</a> [If you don't have access to JoS, here's <a href="https://academic.oup.com/jos/advance-article/doi/10.1093/jos/ffx018/4816230?guestAccessKey=a062ca28-2933-4d6d-96ba-7d9b5df19b3b">a free access link</a>.]
+
+Abstract:
+
+> A cherished semantic universal is that determiners are conservative (Barwise & Cooper 1981; Keenan & Stavi 1986). Well-known problem cases are only (if it has determiner uses) and certain uses of proportional determiners like many (Westerståhl 1985). Fortuny (2017), in a retracted contribution to this journal, proposed a new constraint (the Witness Set Constraint) to replace Conservativity. He claimed that his constraint is satisfied by only and the Westerståhl-many, thus correctly allowing the existence of these non-conservative determiners, whilst it is not satisfied by unattested non-conservative determiners (such as allnon). In fact, we show here that only does not satisfy Fortuny’s Witness Set Constraint (nor does Westerståhl-many, which we leave to the readers to convince themselves of). Upon reflection, it turns out that the reason is simple: the Witness Set Constraint is in fact equivalent to Conservativity. There simply cannot be non-conservative determiners that satisfy the Witness Set Constraint. We consider further weakening of the Witness Set Constraint but show that this would allow unattested determiners.
 
 Working with one of my scientific idols has been quite an honor (and pleasure).

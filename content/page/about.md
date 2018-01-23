@@ -5,7 +5,7 @@ menu: main
 weight: 6
 ---
 
-<img src="/images/kai.jpg" alt="" width="293" height="309" class="alignnone size-full wp-image-677" />
+<img src="/images/kai.jpg" class="alignnone size-full wp-image-677" />
 
 This is the website of Kai von Fintel. I'm a professor of [linguistics](http://mit.edu/linguistics) at [MIT](http://mit.edu/). I work on meaning. I have a wife, two kids, two cats, and a dog. I live in an intentional community ([Mosaic Commons Cohousing](http://mosaic-commons.org/)) in Berlin, Massachusetts. I am a runner. I like soccer, a lot. I was born on a cold winter's night in a small village on the Lüneburg Heath in Northern Germany. My pronouns are he/him/his.
 

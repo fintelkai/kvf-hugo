@@ -6,8 +6,6 @@ title: Many worlds
 url: /many-worlds/
 ---
 
-[This is a slightly edited and updated repost of an old blog post of mine. Since I had to scrub my site after a spam infestation, all my old posts only live on my hard drives and are not on the net. So, as the need or occasion arises, I will repost old posts and update them where appropriate. This one is relevant since I'll be introducing possible worlds in [my advanced semantics](http://stellar.mit.edu/S/course/24/sp11/24.973/) class next week.]
-
 Ever since reading [Max Tegmark's article](http://space.mit.edu/home/tegmark/PDF/multiverse_sciam.pdf) in *Scientific American* on the many worlds version of quantum mechanics, which mentioned David Lewis' plurality of worlds, I have been wanting to learn more.
 
 In high school, I was very good at chemistry but avoided physics at all costs, for no apparent reason, so I have a large deficit in that area. A good plan might be to read the textbook [*Physics for Future Presidents*](http://muller.lbl.gov/teaching/Physics10/PffP.html) by Richard Muller at UC Berkeley. But that will have to wait for some vacation in the future.
