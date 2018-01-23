@@ -16,12 +16,12 @@
     
 	{{ with .PrevInSection }}
 	    <a class="icon pages-icon" href="{{ .Permalink }}" rel="prev">
-    	    <i class="fa fa-arrow-left"></i>
+    	    <i class="fa fa-arrow-left"></i> {{ .Title | markdownify }} 
         </a>
 	{{ end }}
     {{ with .NextInSection }}
 	    <a class="icon pages-icon" href="{{ .Permalink }}" rel="next">
-    	    <i class="fa fa-arrow-right"></i>
+    	    {{.Title | markdownify }} <i class="fa fa-arrow-right"></i>
 	    </a>
 	{{ end }}
 
