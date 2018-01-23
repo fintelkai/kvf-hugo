@@ -1,4 +1,4 @@
-baseURL = "http://kaivonfintel.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "semantics etc."
 theme = "minimal"
