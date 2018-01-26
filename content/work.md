@@ -3,6 +3,7 @@ title: work
 comments: false
 menu: main
 weight: 2
+markup: mmark
 date: 2018-01-21
 ---
 
