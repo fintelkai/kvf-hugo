@@ -1,8 +1,8 @@
 ---
-title: "Plans"
+title: "plans"
 date: 2018-01-21
 menu: main
-weight: 5
+weight: 3
 ---
 
 ### Upcoming gigs ###

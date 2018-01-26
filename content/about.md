@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "about"
 date: 2018-01-21
 menu: main
-weight: 6
+weight: 5
 ---
 
 <img src="/images/kai.jpg" class="alignnone size-full wp-image-677" />

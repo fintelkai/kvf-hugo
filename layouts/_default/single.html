@@ -1,31 +1,11 @@
-{{ partial "header" . }}
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+</div>
 
 <main>
-
-    {{ partial "list-item" . }}
-
-    <br> <div class="text-left">{{ .Content }}</div>
-
-    {{ if and .Site.DisqusShortname (not .Params.disableComments) }}
-
-        <h4 class="page-header">Comments</h4>
-
-        {{ template "_internal/disqus.html" . }}
-
-    {{ end }}
-    
-	{{ with .PrevInSection }}
-	    <a class="icon pages-icon" href="{{ .Permalink }}" rel="prev">
-    	    <i class="fa fa-arrow-left"></i> {{ .Title | markdownify }} 
-        </a>
-	{{ end }}
-    {{ with .NextInSection }}
-	    <a class="icon pages-icon" href="{{ .Permalink }}" rel="next">
-    	    {{.Title | markdownify }} <i class="fa fa-arrow-right"></i>
-	    </a>
-	{{ end }}
-
-
+{{ .Content }}
 </main>
 
 {{ partial "footer.html" . }}

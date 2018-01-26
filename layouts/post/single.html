@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+<h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+</div>
+
+<main>
+{{ .Content }}
+
+{{ with .PrevInSection }}
+    <a href="{{ .Permalink }}" rel="prev">
+	    &#8592; {{ .Title | markdownify }} 
+    </a>
+{{ end }}
+{{ with .NextInSection }}
+    <a href="{{ .Permalink }}" rel="next" style="float: right;">
+	    {{.Title | markdownify }} &#8594;
+    </a>
+{{ end }}
+
+</main>
+
+
+
+{{ partial "footer.html" . }}

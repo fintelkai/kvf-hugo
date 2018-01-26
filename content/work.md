@@ -1,8 +1,8 @@
 ---
-title: Work
+title: work
 comments: false
 menu: main
-weight: 4
+weight: 2
 date: 2018-01-21
 ---
 

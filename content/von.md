@@ -2,7 +2,7 @@
 title: "von"
 date: 2018-01-23
 menu: main
-weight: 5
+weight: 4
 ---
 
 *Question: How do you alphabetize your name in bibliographies?*
