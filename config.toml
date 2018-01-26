@@ -13,3 +13,6 @@ theme = "hugo-xmin"
     url = "/"
     name = "semantics etc."
     weight = 1
+    
+[blackfriday]
+  fractions = false
