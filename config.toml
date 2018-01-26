@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "semantics etc."
-theme = "XMin"
+theme = "hugo-xmin"
 
 [params]
     accent = "#A31F34"
