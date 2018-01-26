@@ -63,3 +63,9 @@ a.icon:hover {
 a:hover {
     color: var(--accent) !important;
 }
+
+/* date */
+
+.date {
+color: #C2C0BF
+}
