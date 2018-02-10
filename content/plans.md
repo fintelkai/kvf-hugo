@@ -20,5 +20,5 @@ weight: 3
 ### Ongoing Activities
 
 * Founding co-editor (with David Beaver) of [*Semantics & Pragmatics*](http://semprag.org).
-* Editorial Board Member of [*Natural Language. Semantics*](http://www.springer.com/education+%26+language/linguistics/journal/11050) and [*Linguistics and Philosophy*](http://www.springer.com/education+%26+language/linguistics/journal/10988).
+* Editorial Board Member of [*Natural Language Semantics*](http://www.springer.com/education+%26+language/linguistics/journal/11050) and [*Linguistics and Philosophy*](http://www.springer.com/education+%26+language/linguistics/journal/10988).
 * Reviewing for many journals and conferences.
