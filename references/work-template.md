@@ -1,4 +1,8 @@
 ---
+title: work
+comments: false
+menu: main
+weight: 2
 nocite: |
   @*
 ...

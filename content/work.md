@@ -1,14 +1,16 @@
 ---
-title: work
-comments: false
+bibliography: 'fintel-works.bib'
+comments: False
+csl: 'unified-kvf-works.csl'
 menu: main
+nocite: '@\*'
+title: work
 weight: 2
-date: 2018-04-01
 ---
 
 See below for a list of papers, handouts, slides, and class notes. For a full list, see my [CV](https://mit.edu/fintel/cv.pdf).
 
------
+------------------------------------------------------------------------
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
@@ -44,7 +46,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 16\. Kai von Fintel & Anthony S. Gillies. 2011. *Might* made right. In Andy Egan & Brian Weatherson (eds.), *Epistemic modality*, 108–130. Oxford: Oxford University Press. URL: <http://mit.edu/fintel/fintel-gillies-2011-mmr.pdf>.
 
-17\. Kai von Fintel & Anthony S. Gillies. 2010. *Must* … stay … strong\! *Natural Language Semantics* 18(4). 351–383. doi:[10.1007/s11050-010-9058-2](https://doi.org/10.1007/s11050-010-9058-2). URL: <https://hdl.handle.net/1721.1/65909>.
+17\. Kai von Fintel & Anthony S. Gillies. 2010. *Must* … stay … strong! *Natural Language Semantics* 18(4). 351–383. doi:[10.1007/s11050-010-9058-2](https://doi.org/10.1007/s11050-010-9058-2). URL: <https://hdl.handle.net/1721.1/65909>.
 
 18\. Kai von Fintel & Sabine Iatridou. 2009. Morphology, syntax, and semantics of modals. Materials for LSA Institute class, University of California, Berkeley, CA. URL: <http://mit.edu/fintel/fintel-iatridou-2009-lsa-modals.pdf>.
 
@@ -90,7 +92,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 39\. Kai von Fintel. 2004. Comments on Reinhart: The syntactic roots of discourse cohesion. In Hans Kamp & Barbara Partee (eds.), *Context-dependence in the analysis of linguistic meaning*, 411–418. (Current Research in the Semantics/Pragmatics Interface). Amsterdam: Elsevier. \[written in 1995\]. URL: <http://mit.edu/fintel/fintel-2004-comments-on-reinhart.pdf>.
 
-40\. Kai von Fintel. 2004. Would you believe it? The king of France is back\! Presuppositions and truth-value intuitions. In Marga Reimer & Anne Bezuidenhout (eds.), *Descriptions and beyond*, 315–341. Oxford University Press. URL: <http://mit.edu/fintel/fintel-2004-kof.pdf>.
+40\. Kai von Fintel. 2004. Would you believe it? The king of France is back! Presuppositions and truth-value intuitions. In Marga Reimer & Anne Bezuidenhout (eds.), *Descriptions and beyond*, 315–341. Oxford University Press. URL: <http://mit.edu/fintel/fintel-2004-kof.pdf>.
 
 41\. Kai von Fintel. 2004. How multi-dimensional is quotation? Comments on Chris Potts’ The Dimensions of Quotation, Harvard-MIT-UConn Workshop on Indexicals, Speech Acts, and Logophors, November 20, 2004. URL: <http://mit.edu/fintel/www/pottsquotecomments.pdf>.
 
@@ -143,4 +145,3 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 65\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
 
 66\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. Department of Linguistics, University of Massachusetts at Amherst.
-
