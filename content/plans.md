@@ -1,15 +1,18 @@
 ---
 title: "plans"
-date: 2018-01-21
+date: 2018-04-14
 menu: main
 weight: 3
 ---
 
 ### Upcoming gigs ###
 
-* **March 10, 2018**: Talk about "Bridges to Philosophy" at *Semantics 2018: Looking Ahead*, a workshop in celebration of [Angelika Kratzer's birthday and retirement](https://scholarworks.umass.edu/ak_festsite/).
 * **May 18-20, 2018**: Co-organizer of [*Semantics and Linguistic Theory 28*](http://web.mit.edu/linguistics/SALT28/index.html).
 * **July 16-27, 2018**: Class on "The linguistics of desire" at the [The 2nd Crete Summer School of Linguistics](http://www.phl.uoc.gr/confs/cssl18/index.php).
+
+### Recent gigs ###
+
+* **March 10, 2018**: Talk about "Bridges to Philosophy" at *Semantics 2018: Looking Ahead*, a workshop in celebration of [Angelika Kratzer's birthday and retirement](https://scholarworks.umass.edu/ak_festsite/).
 
 ### Teaching
 
