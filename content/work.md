@@ -14,7 +14,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel. 2018. Bridges to philosophy. Slides from a talk at the workshop “Semantics 2018: Looking Ahead”, part of Angelika Fest 2018. URL: <http://mit.edu/fintel/fintel-2018-ak-bridges.pdf>.
+1\. Kai von Fintel. 2018. Bridges to philosophy. Slides from a talk at the workshop “Semantics 2018: Looking Ahead”, part of Angelika Fest 2018, UMass Amherst. URL: <http://mit.edu/fintel/fintel-2018-ak-bridges.pdf>.
 
 2\. Kai von Fintel & Edward L. Keenan. 2018. Determiners, conservativity, witnesses. *Journal of Semantics*. doi:[10.1093/jos/ffx018](https://doi.org/10.1093/jos/ffx018). URL: <http://mit.edu/fintel/fintel-keenan-2018-witness.html>.
 
