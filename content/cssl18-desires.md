@@ -16,6 +16,14 @@ In this intermediate/advanced class, we will discuss classic and current work on
 
 If you're going to take the desire class, please fill out [a short survey](https://goo.gl/forms/YILxL4uDe2ByEc762), to help us plan the class.
 
+## Prerequisites
+
+Just kidding, there are no prerequisites other than being interested in the class. However, since the audience will be quite diverse, we encourage you to read [an article by Kai on "prerequisites"](http://www.kaivonfintel.org/prerequisites/).
+
+## Q&A
+
+If you have any questions about the material covered in this class, please ask them [in a shared Google doc](https://goo.gl/2HESTX). We will try to answer questions in the document or via other channels.
+
 ## Eight topics
 
 1. Introduction to possible worlds semantics, including basic Hintikka semantics for attitudes. Overview of issues about expressions of desire and preference.
