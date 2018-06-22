@@ -64,7 +64,7 @@ If you have any questions about the material covered in this class, please ask t
 
 ## 6. Anankastic conditionals
 
-- Condoravdi, Cleo & Sven Lauer. 2016. [Anankastic conditionals are just conditionals](/pdf/condoravdi-lauer-2016-anankastic.pdf). *Semantics and Pragmatics* 9(8). 1--69. doi:[10.3765/sp.9.8](https://doi.org/10.3765/sp.9.8). <https://doi.org/10.3765/sp.9.8>.
+- Condoravdi, Cleo & Sven Lauer. 2016. [Anankastic conditionals are just conditionals](https://doi.org/10.3765/sp.9.8). *Semantics and Pragmatics* 9(8). 1--69. doi:[10.3765/sp.9.8](https://doi.org/10.3765/sp.9.8).
 
 ## 7. X-marking
 
