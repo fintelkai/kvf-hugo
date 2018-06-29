@@ -53,10 +53,12 @@ If you have any questions about the material covered in this class, please ask t
 - Wurmbrand, Susi. 2014. [Tense and aspect in English infinitives](/pdf/wurmbrand-2014-infinitive-tense.pdf). *Linguistic Inquiry* 45(3). 403--447. doi:[10.1162/ling\_a\_00161](https://doi.org/10.1162/ling_a_00161).
 - Moulton, Keir. 2015. [CPs: Copies and compositionality](/pdf/moulton-2015-CPs.pdf). *Linguistic Inquiry* 46(2). 305--342. doi:[10.1162/ling\_a\_00183](https://doi.org/10.1162/ling_a_00183).
 
-## 4. Mood selection
+## 4. Complement/Mood selection
 
 - Portner, Paul & Aynat Rubinstein. 2012. [Mood and contextual commitment](/pdf/portner-rubinstein-2012-mood.pdf). *Semantics and Linguistic Theory* 22. 461--487. doi:[10.3765/salt.v22i0.2642](https://doi.org/10.3765/salt.v22i0.2642).
 - Silk, Alex. 2018. [Commitment and states of mind with mood and modality](/pdf/silk-2018-mood.pdf). *Natural Language Semantics* 26(2). 125--166. doi:[10.1007/s11050-018-9144-4](https://doi.org/10.1007/s11050-018-9144-4).
+- Anand, Pranav & Valentine Hacquard. 2013. [Epistemics and attitudes](https://doi.org/10.3765/sp.6.8). *Semantics and Pragmatics* 6(8). 1--59. doi:[10.3765/sp.6.8](https://doi.org/10.3765/sp.6.8).
+- Kratzer, Angelika. 2016. [Evidential moods in attitude and speech reports](/pdf/kratzer-2016-evidential-moods-uconn_stamped.pdf). Slides from a talk given at the University of Pennsylvania (May 5, 2016), the 1st Syncart Workshop (Siena, July 13, 2016), and the University of Connecticut (September 9, 2016).
 
 ## 5. Conditional desires
 
