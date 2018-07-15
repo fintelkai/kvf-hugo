@@ -26,7 +26,7 @@ If you have any questions about the material covered in this class, please ask t
 
 ## Eight topics
 
-1. Introduction to possible worlds semantics, including basic Hintikka semantics for attitudes. Overview of issues about expressions of desire and preference.
+1. Introduction to possible worlds semantics.
 2. The main semantic questions about desires. Belief-relativity, monotonicity, conflicting desires, gradability.
 3. The syntax of desire.
 4. Complement/mood selection.
