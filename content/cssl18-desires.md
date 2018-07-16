@@ -3,6 +3,12 @@ title: "CSSL18 The linguistics of desire"
 date: 2018-04-30
 ---
 
+## Venue
+
+- Class taught at [The 2nd Crete Summer School of Linguistics](http://www.phl.uoc.gr/confs/cssl18/index.php)
+- University of Crete, Gallos, Rethymnon, Greece
+- July 16-27, 2018
+
 ## Instructors
 
 - Kai von Fintel
