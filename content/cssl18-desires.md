@@ -41,7 +41,7 @@ If you have any questions about the material covered in this class, please ask t
 7. X-marking.
 8. X-marked desires.
 
-## 1. Possible worlds semantics
+## 1. Possible worlds semantics ([Slides used in class](/pdf/ks-crete-desire-slides-1.pdf))
 
 - von Fintel, Kai & Irene Heim. 2011. [Intensional Semantics](/pdf/fintel-heim-2011-intensional.pdf). Especially chapters 1--5.
 
