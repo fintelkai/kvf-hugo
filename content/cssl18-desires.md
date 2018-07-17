@@ -51,6 +51,7 @@ If you have any questions about the material covered in this class, please ask t
 - von Fintel, Kai. 1999. [NPI licensing, Strawson entailment, and context dependency](/pdf/fintel-1999-npi.pdf). *Journal of Semantics* 16(2). 97--148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97).
 - Villalta, Elisabeth. 2008. [Mood and gradability: An investigation of the subjunctive mood in Spanish](/pdf/villalta-2008-subjunctive.pdf). *Linguistics and Philosophy* 31(4). 467--522. doi:[10.1007/s10988-008-9046-x](https://doi.org/10.1007/s10988-008-9046-x).
 - Crnič, Luka. 2011. [Getting *even*](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf). Cambridge, MA: Massachusetts Institute of Technology PhD thesis. Especially Appendix A "(Non-)monotonicity of desire", pp. 162-186.
+- von Fintel, Kai. 2012. [The best we can (expect to) get? Challenges to the classic semantics for deontic modals](http://mit.edu/fintel/fintel-2012-apa-ought.pdf). ms.
 - Rubinstein, Aynat. 2017. [Straddling the line between attitude verbs and necessity modals](/pdf/rubinstein-2017-straddling.pdf). In Ana Arregui, María Luisa Rivero & Andrés Salanova (eds.), *Modality across syntactic categories*, 109--131. Oxford University Press.
 - Grano, Thomas. 2017. [Beyond belief: Desire reports and the typology of attitude predicates](/pdf/grano-2017-want-chapter.pdf). Draft chapter of a book on attitude reports.
 - Phillips-Brown, Milo. 2017. [I want to, but ...](/pdf/phillips-brown-2017-iwanttobut.pdf). *Sinn und Bedeutung* 21.
