@@ -57,7 +57,7 @@ If you have any questions about the material covered in this class, please ask t
 
 ## 3. Syntax of desire
 
-- Wurmbrand, Susi. 2004. [Two types of restructuring-lexical vs. Functional](/pdf/wurmbrand-2004-two-types.pdf). *Lingua* 114(8). 991--1014. doi:[10.1016/s0024-3841(03)00102-5](https://doi.org/10.1016/s0024-3841(03)00102-5).
+- Wurmbrand, Susi. 2004. [Two types of restructuring: Lexical vs. functional](/pdf/wurmbrand-2004-two-types.pdf). *Lingua* 114(8). 991--1014. doi:[10.1016/s0024-3841(03)00102-5](https://doi.org/10.1016/s0024-3841(03)00102-5).
 - Wurmbrand, Susi. 2014. [Tense and aspect in English infinitives](/pdf/wurmbrand-2014-infinitive-tense.pdf). *Linguistic Inquiry* 45(3). 403--447. doi:[10.1162/ling\_a\_00161](https://doi.org/10.1162/ling_a_00161).
 - Moulton, Keir. 2015. [CPs: Copies and compositionality](/pdf/moulton-2015-CPs.pdf). *Linguistic Inquiry* 46(2). 305--342. doi:[10.1162/ling\_a\_00183](https://doi.org/10.1162/ling_a_00183).
 
