@@ -53,6 +53,7 @@ If you have any questions about the material covered in this class, please ask t
 - Crnič, Luka. 2011. [Getting *even*](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf). Cambridge, MA: Massachusetts Institute of Technology PhD thesis. Especially Appendix A "(Non-)monotonicity of desire", pp. 162-186.
 - Rubinstein, Aynat. 2017. [Straddling the line between attitude verbs and necessity modals](/pdf/rubinstein-2017-straddling.pdf). In Ana Arregui, María Luisa Rivero & Andrés Salanova (eds.), *Modality across syntactic categories*, 109--131. Oxford University Press.
 - Grano, Thomas. 2017. [Beyond belief: Desire reports and the typology of attitude predicates](/pdf/grano-2017-want-chapter.pdf). Draft chapter of a book on attitude reports.
+- Phillips-Brown, Milo. 2017. [I want to, but ...](/pdf/phillips-brown-2017-iwanttobut.pdf). *Sinn und Bedeutung* 21.
 
 ## 3. Syntax of desire
 
