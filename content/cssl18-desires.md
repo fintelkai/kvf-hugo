@@ -50,6 +50,7 @@ If you have any questions about the material covered in this class, please ask t
 - Heim, Irene. 1992. [Presupposition projection and the semantics of attitude verbs](/pdf/heim-1992-attitudes.pdf). *Journal of Semantics* 9(3). 183--221. doi:[10.1093/jos/9.3.183](https://doi.org/10.1093/jos/9.3.183).
 - von Fintel, Kai. 1999. [NPI licensing, Strawson entailment, and context dependency](/pdf/fintel-1999-npi.pdf). *Journal of Semantics* 16(2). 97--148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97).
 - Villalta, Elisabeth. 2008. [Mood and gradability: An investigation of the subjunctive mood in Spanish](/pdf/villalta-2008-subjunctive.pdf). *Linguistics and Philosophy* 31(4). 467--522. doi:[10.1007/s10988-008-9046-x](https://doi.org/10.1007/s10988-008-9046-x).
+- Crnič, Luka. 2011. [Getting *even*](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf). Cambridge, MA: Massachusetts Institute of Technology PhD thesis. Especially Appendix A "(Non-)monotonicity of desire", pp. 162-186.
 - Rubinstein, Aynat. 2017. [Straddling the line between attitude verbs and necessity modals](/pdf/rubinstein-2017-straddling.pdf). In Ana Arregui, María Luisa Rivero & Andrés Salanova (eds.), *Modality across syntactic categories*, 109--131. Oxford University Press.
 - Grano, Thomas. 2017. [Beyond belief: Desire reports and the typology of attitude predicates](/pdf/grano-2017-want-chapter.pdf). Draft chapter of a book on attitude reports.
 
