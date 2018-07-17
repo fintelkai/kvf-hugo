@@ -33,7 +33,7 @@ If you have any questions about the material covered in this class, please ask t
 ## Eight topics
 
 1. Introduction to possible worlds semantics.
-2. The main semantic questions about desires. Belief-relativity, monotonicity, conflicting desires, gradability.
+2. The main semantic questions about desires. Belief-relativity, monotonicity, conflicting desires.
 3. The syntax of desire.
 4. Complement/mood selection.
 5. Conditional desires.
@@ -45,7 +45,7 @@ If you have any questions about the material covered in this class, please ask t
 
 - von Fintel, Kai & Irene Heim. 2011. [Intensional Semantics](/pdf/fintel-heim-2011-intensional.pdf). Especially chapters 1--5.
 
-## 2. Semantics of desire
+## 2. Semantics of desire ([Slides](/pdf/ks-crete-desires-slides-2.pdf))
 
 - Heim, Irene. 1992. [Presupposition projection and the semantics of attitude verbs](/pdf/heim-1992-attitudes.pdf). *Journal of Semantics* 9(3). 183--221. doi:[10.1093/jos/9.3.183](https://doi.org/10.1093/jos/9.3.183).
 - von Fintel, Kai. 1999. [NPI licensing, Strawson entailment, and context dependency](/pdf/fintel-1999-npi.pdf). *Journal of Semantics* 16(2). 97--148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97).
