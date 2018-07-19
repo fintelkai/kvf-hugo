@@ -56,7 +56,7 @@ If you have any questions about the material covered in this class, please ask t
 - Grano, Thomas. 2017. [Beyond belief: Desire reports and the typology of attitude predicates](/pdf/grano-2017-want-chapter.pdf). Draft chapter of a book on attitude reports.
 - Phillips-Brown, Milo. 2017. [I want to, but ...](/pdf/phillips-brown-2017-iwanttobut.pdf). *Sinn und Bedeutung* 21.
 
-## 3. Syntax of desire
+## 3. Syntax of desire ([Slides](/pdf/ks-crete-desires-slides-3.pdf))
 
 - Pesetsky, David. 1991. [Zero syntax: Vol. 2: Infinitives](http://web.mit.edu/linguistics/people/faculty/pesetsky/infins.pdf). ms. 
 - Grano, Thomas. 2017. [Restructuring at the syntax-semantics interface](/pdf/grano-2017-restructuring.pdf). In Lukasz Jedrzejowski & Ulrike Demske (eds.), *Infinitives at the syntax-semantics interface: A diachronic perspective*, 31--54. (Trends in Linguistics. Studies and Monographs \[TiLSM\] 306). De Gruyter. doi:[10.1515/9783110520583-002](https://doi.org/10.1515/9783110520583-002).
