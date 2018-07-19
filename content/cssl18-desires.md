@@ -68,6 +68,7 @@ If you have any questions about the material covered in this class, please ask t
 - Silk, Alex. 2018. [Commitment and states of mind with mood and modality](/pdf/silk-2018-mood.pdf). *Natural Language Semantics* 26(2). 125--166. doi:[10.1007/s11050-018-9144-4](https://doi.org/10.1007/s11050-018-9144-4).
 - Anand, Pranav & Valentine Hacquard. 2013. [Epistemics and attitudes](https://doi.org/10.3765/sp.6.8). *Semantics and Pragmatics* 6(8). 1--59. doi:[10.3765/sp.6.8](https://doi.org/10.3765/sp.6.8).
 - Kratzer, Angelika. 2016. [Evidential moods in attitude and speech reports](/pdf/kratzer-2016-evidential-moods-uconn_stamped.pdf). Slides from a talk given at the University of Pennsylvania (May 5, 2016), the 1st Syncart Workshop (Siena, July 13, 2016), and the University of Connecticut (September 9, 2016).
+- Bogal-Albritten, Elizabeth. 2017. [Basic pieces, complex meanings: Building attitudes in Navajo and beyond](https://elizabethba.files.wordpress.com/2015/09/eba-dgfs.pdf).
 
 ## 5. Conditional desires
 
