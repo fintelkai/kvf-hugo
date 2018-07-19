@@ -58,10 +58,9 @@ If you have any questions about the material covered in this class, please ask t
 
 ## 3. Syntax of desire
 
+- Pesetsky, David. 1991. [Zero syntax: Vol. 2: Infinitives](http://web.mit.edu/linguistics/people/faculty/pesetsky/infins.pdf). ms. 
 - Grano, Thomas. 2017. [Restructuring at the syntax-semantics interface](/pdf/grano-2017-restructuring.pdf). In Lukasz Jedrzejowski & Ulrike Demske (eds.), *Infinitives at the syntax-semantics interface: A diachronic perspective*, 31--54. (Trends in Linguistics. Studies and Monographs \[TiLSM\] 306). De Gruyter. doi:[10.1515/9783110520583-002](https://doi.org/10.1515/9783110520583-002).
 - Wurmbrand, Susi. 2004. [Two types of restructuring: Lexical vs. functional](/pdf/wurmbrand-2004-two-types.pdf). *Lingua* 114(8). 991--1014. doi:[10.1016/s0024-3841(03)00102-5](https://doi.org/10.1016/s0024-3841(03)00102-5).
-- Wurmbrand, Susi. 2014. [Tense and aspect in English infinitives](/pdf/wurmbrand-2014-infinitive-tense.pdf). *Linguistic Inquiry* 45(3). 403--447. doi:[10.1162/ling\_a\_00161](https://doi.org/10.1162/ling_a_00161).
-- Moulton, Keir. 2015. [CPs: Copies and compositionality](/pdf/moulton-2015-CPs.pdf). *Linguistic Inquiry* 46(2). 305--342. doi:[10.1162/ling\_a\_00183](https://doi.org/10.1162/ling_a_00183).
 - Larson, Richard, Marcel den Dikken & Peter Ludlow. 2017. [Intensional transitive verbs and abstract clausal complementation](/pdf/larson-dikken-ludlow-2017-itv.pdf). 
 
 ## 4. Complement/Mood selection
@@ -70,6 +69,7 @@ If you have any questions about the material covered in this class, please ask t
 - Silk, Alex. 2018. [Commitment and states of mind with mood and modality](/pdf/silk-2018-mood.pdf). *Natural Language Semantics* 26(2). 125--166. doi:[10.1007/s11050-018-9144-4](https://doi.org/10.1007/s11050-018-9144-4).
 - Anand, Pranav & Valentine Hacquard. 2013. [Epistemics and attitudes](https://doi.org/10.3765/sp.6.8). *Semantics and Pragmatics* 6(8). 1--59. doi:[10.3765/sp.6.8](https://doi.org/10.3765/sp.6.8).
 - Kratzer, Angelika. 2016. [Evidential moods in attitude and speech reports](/pdf/kratzer-2016-evidential-moods-uconn_stamped.pdf). Slides from a talk given at the University of Pennsylvania (May 5, 2016), the 1st Syncart Workshop (Siena, July 13, 2016), and the University of Connecticut (September 9, 2016).
+- Moulton, Keir. 2015. [CPs: Copies and compositionality](/pdf/moulton-2015-CPs.pdf). *Linguistic Inquiry* 46(2). 305--342. 
 - Bogal-Albritten, Elizabeth. 2017. [Basic pieces, complex meanings: Building attitudes in Navajo and beyond](https://elizabethba.files.wordpress.com/2015/09/eba-dgfs.pdf).
 
 ## 5. Conditional desires
