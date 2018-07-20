@@ -68,7 +68,7 @@ If you have any questions about the material covered in this class, please ask t
 - Abusch, Dorit. 2004. [On the temporal composition of infinitives](/pdf/abusch-2004-infinitives.pdf). In Jacqueline Guéron & Jacqueline Lecarme (eds.), *The syntax of time*, 27--53. MIT Press.
 - Banerjee, Neil. 2017. [Embedded subject licensing properties of *hope*](https://www.dropbox.com/s/ql81dld3r5ijspj/hopesquib.pdf?dl=0). ms, MIT.
 
-## 4. Complement/Mood selection
+## 4. Complement/Mood selection ([Slides](/pdf/ks-crete-desires-slides-4.pdf))
 
 - Portner, Paul & Aynat Rubinstein. 2012. [Mood and contextual commitment](/pdf/portner-rubinstein-2012-mood.pdf). *Semantics and Linguistic Theory* 22. 461--487. doi:[10.3765/salt.v22i0.2642](https://doi.org/10.3765/salt.v22i0.2642).
 - Silk, Alex. 2018. [Commitment and states of mind with mood and modality](/pdf/silk-2018-mood.pdf). *Natural Language Semantics* 26(2). 125--166. doi:[10.1007/s11050-018-9144-4](https://doi.org/10.1007/s11050-018-9144-4).
