@@ -62,6 +62,10 @@ If you have any questions about the material covered in this class, please ask t
 - Grano, Thomas. 2017. [Restructuring at the syntax-semantics interface](/pdf/grano-2017-restructuring.pdf). In Lukasz Jedrzejowski & Ulrike Demske (eds.), *Infinitives at the syntax-semantics interface: A diachronic perspective*, 31--54. (Trends in Linguistics. Studies and Monographs \[TiLSM\] 306). De Gruyter. doi:[10.1515/9783110520583-002](https://doi.org/10.1515/9783110520583-002).
 - Wurmbrand, Susi. 2004. [Two types of restructuring: Lexical vs. functional](/pdf/wurmbrand-2004-two-types.pdf). *Lingua* 114(8). 991--1014. doi:[10.1016/s0024-3841(03)00102-5](https://doi.org/10.1016/s0024-3841(03)00102-5).
 - Larson, Richard, Marcel den Dikken & Peter Ludlow. 2017. [Intensional transitive verbs and abstract clausal complementation](/pdf/larson-dikken-ludlow-2017-itv.pdf). 
+
+## 3a. Temporal issues
+
+- Abusch, Dorit. 2004. [On the temporal composition of infinitives](/pdf/abusch-2004-infinitives.pdf). In Jacqueline Guéron & Jacqueline Lecarme (eds.), *The syntax of time*, 27--53. MIT Press.
 - Banerjee, Neil. 2017. [Embedded subject licensing properties of *hope*](https://www.dropbox.com/s/ql81dld3r5ijspj/hopesquib.pdf?dl=0). ms, MIT.
 
 ## 4. Complement/Mood selection
