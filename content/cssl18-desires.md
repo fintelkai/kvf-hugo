@@ -76,6 +76,8 @@ If you have any questions about the material covered in this class, please ask t
 - Kratzer, Angelika. 2016. [Evidential moods in attitude and speech reports](/pdf/kratzer-2016-evidential-moods-uconn_stamped.pdf). Slides from a talk given at the University of Pennsylvania (May 5, 2016), the 1st Syncart Workshop (Siena, July 13, 2016), and the University of Connecticut (September 9, 2016).
 - Moulton, Keir. 2015. [CPs: Copies and compositionality](/pdf/moulton-2015-CPs.pdf). *Linguistic Inquiry* 46(2). 305--342. 
 - Bogal-Albritten, Elizabeth. 2017. [Basic pieces, complex meanings: Building attitudes in Navajo and beyond](https://elizabethba.files.wordpress.com/2015/09/eba-dgfs.pdf).
+- Quer, Josep. 2001. [Interpreting mood](/pdf/quer-2001-mood.pdf). *Probus* 13(1). 81--111. doi:[10.1515/prbs.13.1.81](https://doi.org/10.1515/prbs.13.1.81).
+- Quer, Josep. 2017. [Subjunctives](/pdf/quer-2017-subjunctives.pdf). In Martin Everaert & Henk C. van Riemsdijk (eds.), *The wiley blackwell companion to syntax, second edition*. doi:[10.1002/9781118358733.wbsyncom113](https://doi.org/10.1002/9781118358733.wbsyncom113).
 
 ## 5. Conditional desires ([Slides](/pdf/ks-crete-desires-slides-5.pdf))
 
