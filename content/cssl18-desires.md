@@ -77,7 +77,7 @@ If you have any questions about the material covered in this class, please ask t
 - Moulton, Keir. 2015. [CPs: Copies and compositionality](/pdf/moulton-2015-CPs.pdf). *Linguistic Inquiry* 46(2). 305--342. 
 - Bogal-Albritten, Elizabeth. 2017. [Basic pieces, complex meanings: Building attitudes in Navajo and beyond](https://elizabethba.files.wordpress.com/2015/09/eba-dgfs.pdf).
 
-## 5. Conditional desires
+## 5. Conditional desires ([Slides](/pdf/ks-crete-desires-slides-5.pdf))
 
 - Kaufmann, Magdalena & Stefan Kaufmann. 2015. [Conditionals and modality](/pdf/kaufmann-kaufmann-2015-conditionals-modals.pdf). In Shalom Lappin & Chris Fox (eds.). *The handbook of contemporary semantic theory*. Second Edition. Wiley. doi:[10.1002/9781118882139.ch8](https://doi.org/10.1002/9781118882139.ch8).
 
