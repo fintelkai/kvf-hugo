@@ -83,7 +83,7 @@ If you have any questions about the material covered in this class, please ask t
 
 - Kaufmann, Magdalena & Stefan Kaufmann. 2015. [Conditionals and modality](/pdf/kaufmann-kaufmann-2015-conditionals-modals.pdf). In Shalom Lappin & Chris Fox (eds.). *The handbook of contemporary semantic theory*. Second Edition. Wiley. doi:[10.1002/9781118882139.ch8](https://doi.org/10.1002/9781118882139.ch8).
 
-## 6. Anankastic conditionals
+## 6. Anankastic conditionals ([Slides](/pdf/ks-crete-desires-slides-6.pdf))
 
 - Condoravdi, Cleo & Sven Lauer. 2016. [Anankastic conditionals are just conditionals](https://doi.org/10.3765/sp.9.8). *Semantics and Pragmatics* 9(8). 1--69. doi:[10.3765/sp.9.8](https://doi.org/10.3765/sp.9.8).
 - Phillips-Brown, Milo. 2018. [Anankastic conditionals are still a mystery: Reply to Condoravdi and Lauer](/pdf/phillips-brown-2018-anankastics.pdf). ms.
