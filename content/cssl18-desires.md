@@ -88,7 +88,7 @@ If you have any questions about the material covered in this class, please ask t
 - Condoravdi, Cleo & Sven Lauer. 2016. [Anankastic conditionals are just conditionals](https://doi.org/10.3765/sp.9.8). *Semantics and Pragmatics* 9(8). 1--69. doi:[10.3765/sp.9.8](https://doi.org/10.3765/sp.9.8).
 - Phillips-Brown, Milo. 2018. [Anankastic conditionals are still a mystery: Reply to Condoravdi and Lauer](/pdf/phillips-brown-2018-anankastics.pdf). ms.
 
-## 7. X-marking
+## 7. X-marking ([Slides](/pdf/ks-crete-desires-slides-7.pdf))
 
 - von Fintel, Kai. 1998. [The presupposition of subjunctive conditionals](http://mit.edu/fintel/fintel-1998-subjunctive.pdf). In Uli Sauerland & Orin Percus (eds.), *The interpretive tract*, 29--44. (MIT Working Papers in Linguistics 25). Cambridge, MA: MITWPL.
 - Iatridou, Sabine. 2000. [The grammatical ingredients of counterfactuality](/pdf/iatridou-2000-ingredients.pdf). *Linguistic Inquiry* 31(2). 231--270. doi:[10.1162/002438900554352](https://doi.org/10.1162/002438900554352).
