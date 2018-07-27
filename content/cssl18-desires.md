@@ -94,6 +94,6 @@ If you have any questions about the material covered in this class, please ask t
 - Iatridou, Sabine. 2000. [The grammatical ingredients of counterfactuality](/pdf/iatridou-2000-ingredients.pdf). *Linguistic Inquiry* 31(2). 231--270. doi:[10.1162/002438900554352](https://doi.org/10.1162/002438900554352).
 - von Fintel, Kai & Sabine Iatridou. 2008. [How to say *ought* in Foreign: The composition of weak necessity modals](/pdf/fintel-iatridou-2008-ought.pdf). In Jacqueline Guéron & Jacqueline Lecarme (eds.), *Time and modality*, 115--141. (Studies in Natural Language and Linguistic Theory 75). Springer. doi:[10.1007/978-1-4020-8354-9](https://doi.org/10.1007/978-1-4020-8354-9).
 
-## 8. X-marked desires
+## 8. X-marked desires ([Slides](/pdf/ks-crete-desires-slides-8.pdf))
 
 - von Fintel, Kai & Sabine Iatridou. 2017. [X-marked desires: What wanting and wishing cross-linguistically can tell us about the ingredients of counterfactuality](http://mit.edu/fintel/ks-x-phlip-slides.pdf). Slides from a talk at Philosophical Linguistics and Linguistical Philosophy Workshop, Tarrytown, NY. 
