@@ -4,6 +4,8 @@ date: 2018-09-21
 draft: false
 ---
 
+[crossposted to [Language Log](http://languagelog.ldc.upenn.edu/nll/?p=40045)]
+
 [Question #1 on this November's ballot in Massachusetts](https://ballotpedia.org/Massachusetts%5FQuestion%5F1,%5FNurse-Patient%5FAssignment%5FLimits%5FInitiative%5F(2018)) concerns a proposed law
 to limit the number of patients that can be assigned to a nurse at any one time.
 More than $15 million dollars have already been spent on campaigning about this
