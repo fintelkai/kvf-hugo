@@ -48,6 +48,14 @@ campaigners. Making the addressees come up with the intended interpretation
 without specifically committing to it is a splendid way of saying one thing
 while maybe not really saying it.
 
+[*Update*:] As pointed out to me by [Michelle
+Yuan](https://voices.uchicago.edu/mmxyuan/), another aspect of these signs is
+rooted in the essentialist signal sent by generic bare plurals. By saying
+"nurses say yes/no", what each side is actually claiming is that *real* nurses
+say yes/no. This very problematic essentialism that creeps into bare plural
+statements is also something that Mark Liberman mentions [in his follow-up
+post](http://languagelog.ldc.upenn.edu/nll/?p=40052), with many more references.
+
 Further reading:
 
 -   [Wikipedia on "bare nouns"](https://en.wikipedia.org/wiki/Bare%5Fnouns)
