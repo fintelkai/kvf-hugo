@@ -152,4 +152,6 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 69\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
 
-70\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. Department of Linguistics, University of Massachusetts at Amherst.
+70\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *Northeast Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+
+71\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. Department of Linguistics, University of Massachusetts at Amherst.
