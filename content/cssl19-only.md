@@ -1,5 +1,5 @@
 ---
-title: "CSSL19 The *only* class"
+title: "CSSL19 The only class"
 date: 2019-04-08
 ---
 
