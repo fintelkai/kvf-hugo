@@ -9,26 +9,25 @@ date: 2019-04-08
 - University of Crete, Gallos, Rethymnon, Greece
 - July 13-26, 2019
 
-## Instructors
+## Instructor
 
 - Kai von Fintel
-- Sabine Iatridou
 
 ## Course description
 
-This intermediate to advanced class will review what is known about exclusive markers like only and its cousins (in English and cross-linguistically). Topics include dimensions of meaning, mirativity, NPI licensing, the relation to exhaustification, the role of exclusives in expressions of sufficiency, the interaction with bare plurals and bare conditionals. 
+This intermediate to advanced class will review what is known about exclusive markers like *only* and its cousins (in English and cross-linguistically). Topics include dimensions of meaning, mirativity, NPI licensing, the relation to exhaustification, the role of exclusives in expressions of sufficiency, the interaction with bare plurals and bare conditionals. 
 
 ## Pre-class survey
 
-If you're going to take the *only* class, please fill out [a short survey](httpshttps://forms.gle/s2Mhx3E8tHma53Bz6), to help us plan the class.
+If you're going to take the *only* class, please fill out [a short survey](httpshttps://forms.gle/s2Mhx3E8tHma53Bz6), to help me plan the class.
 
 ## Prerequisites
 
-Just kidding, there are no prerequisites other than being interested in the class. However, since the audience will be quite diverse, we encourage you to read [an article by Kai on "prerequisites"](http://www.kaivonfintel.org/prerequisites/).
+Just kidding, there are no prerequisites other than being interested in the class. However, since the audience will be quite diverse, I encourage you to read [an article of mine on "prerequisites"](http://www.kaivonfintel.org/prerequisites/).
 
 ## Early readings
 
-These readings should get you started thinking about these topics. Do not expect to necessarily fully understand everything. We'll try to help you get into the material when we teach the class.
+These readings should get you started thinking about these topics. Do not expect to necessarily fully understand everything. I'll try to help you get into the material when I teach the class.
 
 - Kai von Fintel. 1993. [Exceptive constructions](http://mit.edu/fintel/fintel-1993-exceptives.pdf). *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560).
 - Kai von Fintel. 1997. [Bare plurals, bare conditionals, and *only*](http://mit.edu/fintel/fintel-1997-bare.pdf). *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). 
