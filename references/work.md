@@ -64,7 +64,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 25\. Kai von Fintel & Lisa Matthewson. 2008. Universals in semantics. *The Linguistic Review* 25(1-2). 139–201. doi:[10.1515/TLIR.2008.004](https://doi.org/10.1515/TLIR.2008.004). URL: <http://mit.edu/fintel/fintel-matthewson-2008-universals.pdf>.
 
-26\. Kai von Fintel. 2007. *If*: The biggest little word. Slides from a plenary address given at the Georgetown University Roundtable, March 8, 2007. URL: <http://mit.edu/fintel/gurt-slides.pdf>.
+26\. Kai von Fintel. 2007. *If*: The biggest little word. Slides from a plenary address given at the Georgetown University Roundtable, March 8, 2007. URL: <http://mit.edu/fintel/fintel-2007-if-gurt.pdf>.
 
 27\. Kai von Fintel & Anthony S. Gillies. 2007. An opinionated guide to epistemic modality. In Tamar Szabó Gendler & John Hawthorne (eds.), *Oxford studies in epistemology: Volume 2*, 32–62. Oxford University Press. URL: <http://mit.edu/fintel/fintel-gillies-2007-ose2.pdf>.
 
