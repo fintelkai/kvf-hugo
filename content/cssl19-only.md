@@ -17,10 +17,6 @@ date: 2019-04-08
 
 This intermediate to advanced class will review what is known about exclusive markers like *only* and its cousins (in English and cross-linguistically). Topics include dimensions of meaning, mirativity, NPI licensing, the relation to exhaustification, the role of exclusives in expressions of sufficiency, the interaction with bare plurals and bare conditionals. 
 
-## Pre-class survey
-
-If you're going to take the *only* class, please fill out [a short survey](httpshttps://forms.gle/s2Mhx3E8tHma53Bz6), to help me plan the class.
-
 ## Prerequisites
 
 Just kidding, there are no prerequisites other than being interested in the class. However, since the audience will be quite diverse, I encourage you to read [an article of mine on "prerequisites"](http://www.kaivonfintel.org/prerequisites/).
