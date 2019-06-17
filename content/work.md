@@ -18,7 +18,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 <div id="ref-2019-fintel-iatridou-since" markdown="1">
 
-1\. Kai von Fintel & Sabine Iatridou. 2019. Since since. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1\_15](https://doi.org/10.1007/978-3-030-04438-1_15).
+1\. Kai von Fintel & Sabine Iatridou. 2019. Since since. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1\_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
 
 </div>
 
