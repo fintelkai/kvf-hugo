@@ -4,7 +4,7 @@ To add a new reference:
 
 2. Run the following command in the reference directory:
 
-pandoc -f markdown -t markdown_mmd+yaml_metadata_block --bibliography=fintel-works.bib --csl=unified-kvf-works.csl --wrap=none --filter /usr/local/bin/pandoc-citeproc work-template.md -o work.md -s
+pandoc -f markdown -t markdown_mmd+yaml_metadata_block-raw_html --bibliography=fintel-works.bib --csl=unified-kvf-works.csl --wrap=none --filter /usr/local/bin/pandoc-citeproc work-template.md -o work.md -s
 
 3. Currently, I need to handcode the strikethrough for since ~~since~~ once work.md has been updated.
 
