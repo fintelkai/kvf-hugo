@@ -44,7 +44,7 @@ These readings should get you started thinking about these topics. Do not expect
 ## Class 2: Basics of exceptives
 
 - von Fintel, Kai. 1993. [Exceptive constructions](http://mit.edu/fintel/fintel-1993-exceptives.pdf). *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560).
-- Gajewski, Jon. 2008. [NPI *any* and connected exceptive phrases](/pdf/gajewski-2008-exceptives.pdf). *Natural Language Semantics*. doi:[10.1007/s11050-007-9025-8](https://doi.org/10.1007/s11050-007-9025-8).
+- Gajewski, Jon. 2008. [NPI *any* and connected exceptive phrases](/pdf/gajewski-2008-exceptives.pdf). *Natural Language Semantics* 16(1). 69--110. doi:[10.1007/s11050-007-9025-8](https://doi.org/10.1007/s11050-007-9025-8).
 - Hirsch, Aron. 2016. An unexceptional semantics for expressions of exception. *Proceedings of the Penn Linguistics Conference* 39. 139--148. <http://repository.upenn.edu/pwpl/vol22/iss1/16>.
 
 ## Class 3: 
