@@ -7,7 +7,7 @@ date: 2019-04-08
 
 - Class taught at [The 3nd Crete Summer School of Linguistics](https://www.phl.uoc.gr/cssl19/index.php)
 - University of Crete, Gallos, Rethymnon, Greece
-- July 13-26, 2019
+- July 13--26, 2019
 
 ## Instructor
 
@@ -33,13 +33,13 @@ These readings should get you started thinking about these topics. Do not expect
 - von Fintel, Kai. 1997. [Bare plurals, bare conditionals, and *only*](http://mit.edu/fintel/fintel-1997-bare.pdf). *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). 
 - von Fintel, Kai. 1999. [NPI licensing, Strawson entailment, and context dependency](http://mit.edu/fintel/fintel-1999-npi.pdf). *Journal of Semantics* 16(2). 97--148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97).
 - von Fintel, Kai & Sabine Iatridou. 2007. [Anatomy of a modal construction](http://mit.edu/fintel/fintel-iatridou-2007-anatomy.pdf). *Linguistic Inquiry* 38(3). 445–483. doi:[10.1162/ling.2007.38.3.445](https://doi.org/10.1162/ling.2007.38.3.445).
-- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371-432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
+- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 - Alonso-Ovalle, Luis & Aron Hirsch. 2018. Keep *only* strong. *SALT* 28. 251–270. doi:[10.3765/salt.v28i0.4439](https://doi.org/10.3765/salt.v28i0.4439).
 
 ## Class 1: Basics of exclusives
 
 - Horn, Laurence R. 1969. A presuppositional analysis of *Only* and *Even*. *Chicago Linguistic Society (CLS)* 5. 98--107.
-- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371-432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
+- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 
 ## Class 2: Basics of exceptives
 
@@ -54,7 +54,7 @@ These readings should get you started thinking about these topics. Do not expect
 ## Class 4: Scalar *only*, Mirativity
 
 - Klinedinst, Nathan. 2005. [Scales and *Only*](/pdf/klinedinst-2005-scales-only.pdf). Generals paper. UCLA.
-- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371-432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
+- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 - Greenberg, Yael. 2019. *Even* and *Only*: Arguing for parallels in scalarity and in constructing alternatives. *North East Linguistics Society (NELS)* 49. <https://ling.auf.net/lingbuzz/004278>.
 
 ## Class 5: *only* and NPI licensing
@@ -72,7 +72,7 @@ These readings should get you started thinking about these topics. Do not expect
 ## Class 7: Sufficiency
 
 - von Fintel, Kai & Sabine Iatridou. 2007. [Anatomy of a modal construction](http://mit.edu/fintel/fintel-iatridou-2007-anatomy.pdf). *Linguistic Inquiry* 38(3). 445–483. doi:[10.1162/ling.2007.38.3.445](https://doi.org/10.1162/ling.2007.38.3.445).
-- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371-432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
+- Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 - Alonso-Ovalle, Luis & Aron Hirsch. 2018. Keep *only* strong. *SALT* 28. 251–270. doi:[10.3765/salt.v28i0.4439](https://doi.org/10.3765/salt.v28i0.4439).
 
 ## Class 8: The *only* connectives
