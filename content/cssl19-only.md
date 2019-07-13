@@ -15,7 +15,7 @@ date: 2019-04-08
 
 ## Course description
 
-This intermediate to advanced class will review what is known about exclusive markers like *only* and its cousins (in English and cross-linguistically). Topics include dimensions of meaning, mirativity, NPI licensing, the relation to exhaustification, the role of exclusives in expressions of sufficiency, the interaction with bare plurals and bare conditionals. 
+This intermediate to advanced class will review what is known about exclusive markers like *only* and its cousins (in English and cross-linguistically). Topics include dimensions of meaning, mirativity, NPI licensing, the role of exclusives in expressions of sufficiency, the interaction with bare plurals and bare conditionals. 
 
 ## Pre-class survey
 
