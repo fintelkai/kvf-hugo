@@ -52,7 +52,7 @@ These readings should get you started thinking about these topics. Do not expect
 ## Class 3: Clausal exceptives
 
 - Potsdam, Eric. 2018. Exceptives and ellipsis. *North East Linguistics Society (NELS)* 48. 259--268. <http://users.clas.ufl.edu/potsdam/papers/NELS48.pdf>.
-- Potsdam, Eric & Maria Polinksy. 2019. Clausal and phrasal exceptives. ms. <http://www.mariapolinsky.com/wp-content/uploads/2019/05/maria_polinsky_glow_poster_clausal_and_phrasal_exceptives.pdf>.
+- Potsdam, Eric & Maria Polinksy. 2019. [Clausal and phrasal exceptives](http://www.mariapolinsky.com/wp-content/uploads/2019/05/maria_polinsky_glow_poster_clausal_and_phrasal_exceptives.pdf). Poster presented at GLOW.
 - Vostrikova, Katia. 2019. Conditional analysis of clausal exceptives. ms. UMass Amherst.
 
 ## Class 4: Scalar *only*, Mirativity
