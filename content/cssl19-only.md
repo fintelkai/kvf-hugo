@@ -46,10 +46,13 @@ These readings should get you started thinking about these topics. Do not expect
 - von Fintel, Kai. 1993. [Exceptive constructions](http://mit.edu/fintel/fintel-1993-exceptives.pdf). *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560).
 - Gajewski, Jon. 2008. [NPI *any* and connected exceptive phrases](/pdf/gajewski-2008-exceptives.pdf). *Natural Language Semantics* 16(1). 69--110. doi:[10.1007/s11050-007-9025-8](https://doi.org/10.1007/s11050-007-9025-8).
 - Hirsch, Aron. 2016. An unexceptional semantics for expressions of exception. *Proceedings of the Penn Linguistics Conference* 39. 139--148. <http://repository.upenn.edu/pwpl/vol22/iss1/16>.
+- García-Álvarez, Iván. 2008. [Generality and exception: A study in the semantics of exceptives](/pdf/garcia-alvarez-2008-thesis.pdf). Stanford University PhD thesis. <http://proquest.umi.com/pqdweb?did=1671091441&sid=2&Fmt=2&clientId=60577&RQT=309&VName=PQD>
 
-## Class 3: 
+## Class 3: Clausal exceptives
 
-- Reading TBA
+- Potsdam, Eric. 2018. Exceptives and ellipsis. *North East Linguistics Society (NELS)* 48. 259--268. <http://users.clas.ufl.edu/potsdam/papers/NELS48.pdf>.
+- Potsdam, Eric & Maria Polinksy. 2019. Clausal and phrasal exceptives. ms. <http://www.mariapolinsky.com/wp-content/uploads/2019/05/maria_polinsky_glow_poster_clausal_and_phrasal_exceptives.pdf>.
+- Vostrikova, Katia. 2019. Conditional analysis of clausal exceptives. ms. UMass Amherst.
 
 ## Class 4: Scalar *only*, Mirativity
 
