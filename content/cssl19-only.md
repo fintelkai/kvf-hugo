@@ -60,13 +60,13 @@ These readings should get you started thinking about these topics. Do not expect
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 - Greenberg, Yael. 2019. *Even* and *Only*: Arguing for parallels in scalarity and in constructing alternatives. *North East Linguistics Society (NELS)* 49. <https://ling.auf.net/lingbuzz/004278>.
 
-## Class 5: *only* and NPI licensing
+## Class 5: *only*, NPI licensing, and the syntax of focus
 
 - von Fintel, Kai. 1999. [NPI licensing, Strawson entailment, and context dependency](http://mit.edu/fintel/fintel-1999-npi.pdf). *Journal of Semantics* 16(2). 97--148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97).
 - Wagner, Michael. 2006. [Association by movement: Evidence from NPI-licensing](/pdf/wagner-2006-association-movement.pdf). *Natural Language Semantics* 14(4). 297--324. doi:[10.1007/s11050-007-9005-z](https://doi.org/10.1007/s11050-007-9005-z).
 - Erlewine, Michael Yoshitaka & Hadas Kotek. 2018. [Focus association by movement: Evidence from Tanglewood](/pdf/erlewine-kotek-2018-tanglewood.pdf). *Linguistic Inquiry* 49(3). 441--463. doi:[10.1162/ling\_a\_00263](https://doi.org/10.1162/ling_a_00263).
 
-## Class 6: *only* + $\exists/\diamond$
+## Class 6: *only*, bare plurals, bare conditionals
 
 - von Fintel, Kai. 1997. [Bare plurals, bare conditionals, and *only*](http://mit.edu/fintel/fintel-1997-bare.pdf). *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). 
 - Bassi, Itai & Moshe E. Bar-Lev. 2017. A unified existential semantics for bare conditionals. *Sinn und Bedeutung* 21. <https://sites.google.com/site/sinnundbedeutung21/proceedings-preprints/SuB%2021%20Bar-Lev%20and%20Bassi%20final.pdf>.
