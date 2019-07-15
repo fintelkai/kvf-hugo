@@ -36,7 +36,7 @@ These readings should get you started thinking about these topics. Do not expect
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 - Alonso-Ovalle, Luis & Aron Hirsch. 2018. Keep *only* strong. *SALT* 28. 251–270. doi:[10.3765/salt.v28i0.4439](https://doi.org/10.3765/salt.v28i0.4439).
 
-## Class 1: Basics of exclusives ([slides](/pdf/csssl19-only-day1.pdf))
+## Class 1: Basics of exclusives ([slides](/pdf/cssl19-only-day1.pdf))
 
 - Horn, Laurence R. 1969. A presuppositional analysis of *Only* and *Even*. *Chicago Linguistic Society (CLS)* 5. 98--107.
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
