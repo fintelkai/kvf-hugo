@@ -77,6 +77,7 @@ These readings should get you started thinking about these topics. Do not expect
 
 - von Fintel, Kai & Sabine Iatridou. 2007. [Anatomy of a modal construction](http://mit.edu/fintel/fintel-iatridou-2007-anatomy.pdf). *Linguistic Inquiry* 38(3). 445–483. doi:[10.1162/ling.2007.38.3.445](https://doi.org/10.1162/ling.2007.38.3.445).
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
+- Franke, Michael. 2006. [Teleological necessity and *only*](http://www.sfs.uni-tuebingen.de/~mfranke/Papers/TelNecOnly.pdf). *Proceedings of the ESSLI Student Session* 11.
 - Alonso-Ovalle, Luis & Aron Hirsch. 2018. Keep *only* strong. *SALT* 28. 251–270. doi:[10.3765/salt.v28i0.4439](https://doi.org/10.3765/salt.v28i0.4439).
 
 ## Class 8: The *only* connectives
