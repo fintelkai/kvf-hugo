@@ -73,12 +73,13 @@ These readings should get you started thinking about these topics. Do not expect
 - Bassi, Itai & Moshe E. Bar-Lev. 2017. A unified existential semantics for bare conditionals. *Sinn und Bedeutung* 21. <https://sites.google.com/site/sinnundbedeutung21/proceedings-preprints/SuB%2021%20Bar-Lev%20and%20Bassi%20final.pdf>.
 - Herburger, Elena. 2018. [Bare conditionals in the red](/pdf/herburger-2018-conditionals-red.pdf). *Linguistics and Philosophy* 42(2). 131--175. doi:[10.1007/s10988-018-9242-2](https://doi.org/10.1007/s10988-018-9242-2).
 
-## Class 7: Sufficiency
+## Class 7: (Minimal) sufficiency
 
 - von Fintel, Kai & Sabine Iatridou. 2007. [Anatomy of a modal construction](http://mit.edu/fintel/fintel-iatridou-2007-anatomy.pdf). *Linguistic Inquiry* 38(3). 445–483. doi:[10.1162/ling.2007.38.3.445](https://doi.org/10.1162/ling.2007.38.3.445).
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 - Franke, Michael. 2006. [Teleological necessity and *only*](http://www.sfs.uni-tuebingen.de/~mfranke/Papers/TelNecOnly.pdf). *Proceedings of the ESSLI Student Session* 11.
 - Alonso-Ovalle, Luis & Aron Hirsch. 2018. Keep *only* strong. *SALT* 28. 251–270. doi:[10.3765/salt.v28i0.4439](https://doi.org/10.3765/salt.v28i0.4439).
+- Coppock, Elizabeth & Anna Lindahl. 2015. [Minimal sufficiency readings in conditionals](http://www.eecoppock.info/Coppock+Lindahl-TLS15.pdf). *Proceedings of the Texas Linguistic Society* 15. 24--38.
 
 ## Class 8: The *only* connectives
 
