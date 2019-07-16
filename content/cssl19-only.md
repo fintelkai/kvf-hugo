@@ -41,7 +41,7 @@ These readings should get you started thinking about these topics. Do not expect
 - Horn, Laurence R. 1969. A presuppositional analysis of *Only* and *Even*. *Chicago Linguistic Society (CLS)* 5. 98--107.
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
 
-## Class 2: Basics of exceptives
+## Class 2: Basics of exceptives ([slides](/pdf/cssl19-only-day2.pdf))
 
 - von Fintel, Kai. 1993. [Exceptive constructions](http://mit.edu/fintel/fintel-1993-exceptives.pdf). *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560).
 - von Fintel, Kai. 2000. [Exceptive constructions](http://mit.edu/fintel/fintel-2000-exceptives.pdf). Seminar notes, MIT.
