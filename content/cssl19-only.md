@@ -49,7 +49,7 @@ These readings should get you started thinking about these topics. Do not expect
 - Hirsch, Aron. 2016. An unexceptional semantics for expressions of exception. *Proceedings of the Penn Linguistics Conference* 39. 139--148. <http://repository.upenn.edu/pwpl/vol22/iss1/16>.
 - García-Álvarez, Iván. 2008. [Generality and exception: A study in the semantics of exceptives](/pdf/garcia-alvarez-2008-thesis.pdf). Stanford University PhD thesis. <http://proquest.umi.com/pqdweb?did=1671091441&sid=2&Fmt=2&clientId=60577&RQT=309&VName=PQD>
 
-## Class 3: Clausal exceptives
+## Class 3: Clausal exceptives ([slides](/pdf/cssl19-only-day3.pdf))
 
 - Potsdam, Eric. 2018. Exceptives and ellipsis. *North East Linguistics Society (NELS)* 48. 259--268. <http://users.clas.ufl.edu/potsdam/papers/NELS48.pdf>.
 - Potsdam, Eric & Maria Polinksy. 2019. [Clausal and phrasal exceptives](http://www.mariapolinsky.com/wp-content/uploads/2019/05/maria_polinsky_glow_poster_clausal_and_phrasal_exceptives.pdf). Poster presented at GLOW.
