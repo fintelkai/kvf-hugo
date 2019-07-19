@@ -55,7 +55,7 @@ These readings should get you started thinking about these topics. Do not expect
 - Potsdam, Eric & Maria Polinksy. 2019. [Clausal and phrasal exceptives](http://www.mariapolinsky.com/wp-content/uploads/2019/05/maria_polinsky_glow_poster_clausal_and_phrasal_exceptives.pdf). Poster presented at GLOW.
 - Vostrikova, Ekaterina. 2019. [Conditional analysis of clausal exceptives](/pdf/vostrikova-2019-clausal-exceptives.pdf). ms. UMass Amherst.
 
-## Class 4: Scalar *only*, Mirativity
+## Class 4: Scalar *only*, Mirativity ([slides](/pdf/cssl19-only-day4.pdf))
 
 - Klinedinst, Nathan. 2005. [Scales and *Only*](/pdf/klinedinst-2005-scales-only.pdf). Generals paper. UCLA.
 - Coppock, Elizabeth & David I. Beaver. 2014. [Principles of the exclusive muddle](/pdf/coppock-beaver-2014-exclusive-muddle). *Journal of Semantics* 31(3). 371--432. doi:[10.1093/jos/fft007](https://doi.org/10.1093/jos/fft007).
