@@ -82,6 +82,6 @@ These readings should get you started thinking about these topics. Do not expect
 - Alonso-Ovalle, Luis & Aron Hirsch. 2018. Keep *only* strong. *SALT* 28. 251–270. doi:[10.3765/salt.v28i0.4439](https://doi.org/10.3765/salt.v28i0.4439).
 - Coppock, Elizabeth & Anna Lindahl. 2015. [Minimal sufficiency readings in conditionals](http://www.eecoppock.info/Coppock+Lindahl-TLS15.pdf). *Proceedings of the Texas Linguistic Society* 15. 24--38.
 
-## Class 8: The *only* connectives
+## Class 8: The *only* connectives ([slides](/pdf/cssl19-only-day8.pdf))
 
 - No readings
