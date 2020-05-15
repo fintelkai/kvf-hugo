@@ -3,8 +3,7 @@ title: work
 comments: false
 menu: main
 weight: 2
-nocite: |
-  @*
+nocite: '@*'
 ...
 
 See below for a list of papers, handouts, slides, and class notes. For a full list, see my [CV](https://mit.edu/fintel/cv.pdf).
