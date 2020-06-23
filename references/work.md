@@ -13,17 +13,17 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
+1\. Kai von Fintel & Anthony S. Gillies. 2020. Still going strong. ms, under review. URL: <https://semanticsarchive.net/Archive/GMzZTM0Y/fintel-gillies-2020-sgs.pdf>.
 
-2\. Kai von Fintel & Sabine Iatridou. 2019. Since ~~since~~. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1\_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
+2\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
-3\. Kai von Fintel & Sabine Iatridou. 2019. Prolegomena to a theory of X-marking. Slides from at a talk at the UConn Logic Group workshop “*If* by any other name”. URL: <http://mit.edu/fintel/fintel-iatridou-2019-x-slides.pdf>.
+3\. Kai von Fintel & Sabine Iatridou. 2019. Since ~~since~~. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1\_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
 
-4\. Kai von Fintel. 2018. Conditional desires. Slides from a linguistics colloquium at Georgetown University. URL: <http://mit.edu/fintel/k-cd-slides.pdf>.
+4\. Kai von Fintel & Sabine Iatridou. 2019. Prolegomena to a theory of X-marking. Slides from at a talk at the UConn Logic Group workshop “*If* by any other name”. URL: <http://mit.edu/fintel/fintel-iatridou-2019-x-slides.pdf>.
 
-5\. Kai von Fintel. 2018. Bridges to philosophy. Slides from a talk at the workshop “Semantics 2018: Looking Ahead”, part of Angelika Fest 2018-01-01, UMass Amherst. URL: <http://mit.edu/fintel/fintel-2018-ak-bridges.pdf>.
+5\. Kai von Fintel. 2018. Conditional desires. Slides from a linguistics colloquium at Georgetown University. URL: <http://mit.edu/fintel/k-cd-slides.pdf>.
 
-6\. Kai von Fintel & Anthony S. Gillies. 2018. Still going strong. ms, under review. URL: <https://semanticsarchive.net/Archive/GMzZTM0Y/fintel-gillies-2018-still-strong.pdf>.
+6\. Kai von Fintel. 2018. Bridges to philosophy. Slides from a talk at the workshop “Semantics 2018: Looking Ahead”, part of Angelika Fest 2018-01-01, UMass Amherst. URL: <http://mit.edu/fintel/fintel-2018-ak-bridges.pdf>.
 
 7\. Kai von Fintel & Edward L. Keenan. 2018. Determiners, conservativity, witnesses. *Journal of Semantics*. doi:[10.1093/jos/ffx018](https://doi.org/10.1093/jos/ffx018). URL: <http://mit.edu/fintel/fintel-keenan-2018-witness.html>.
 
