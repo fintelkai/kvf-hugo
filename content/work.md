@@ -13,9 +13,9 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Sabine Iatridou. 2020. Prolegomena to a theory of X-marking. ms, under review. URL: <https://semanticsarchive.net/Archive/zdjYTJjY/fintel-iatridou-2020-x.pdf>.
+1\. Kai von Fintel & Anthony S. Gillies. 2020. Still going strong. Accepted for publication in *Natural Language Semantics*. URL: <https://semanticsarchive.net/Archive/GMzZTM0Y/fintel-gillies-2020-sgs.pdf>.
 
-2\. Kai von Fintel & Anthony S. Gillies. 2020. Still going strong. ms, under review. URL: <https://semanticsarchive.net/Archive/GMzZTM0Y/fintel-gillies-2020-sgs.pdf>.
+2\. Kai von Fintel & Sabine Iatridou. 2020. Prolegomena to a theory of X-marking. ms, under review. URL: <https://semanticsarchive.net/Archive/zdjYTJjY/fintel-iatridou-2020-x.pdf>.
 
 3\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
