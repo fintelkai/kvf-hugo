@@ -1,8 +1,9 @@
 ---
-bibliography: 'fintel-works.bib'
-csl: 'unified-kvf-works.csl'
+bibliography: fintel-works.bib
+comments: false
+csl: unified-kvf-works.csl
 menu: main
-nocite: '@\*'
+nocite: "@\\*"
 title: work
 weight: 2
 ---
@@ -13,9 +14,9 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Robert Pasternak. 2020. Attitudes, aboutness, and fake restricted readings. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
+1\. Kai von Fintel & Anthony S. Gillies. 2021. Still going strong. *Natural Language Semantics*. doi:[10.1007/s11050-020-09171-x](https://doi.org/10.1007/s11050-020-09171-x). URL: <http://mit.edu/fintel/fintel-gillies-2021-stillgoingstrong.pdf>.
 
-2\. Kai von Fintel & Anthony S. Gillies. 2020. Still going strong. Accepted for publication in *Natural Language Semantics*. URL: <https://semanticsarchive.net/Archive/GMzZTM0Y/fintel-gillies-2020-sgs.pdf>.
+2\. Kai von Fintel & Robert Pasternak. 2020. Attitudes, aboutness, and fake restricted readings. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
 
 3\. Kai von Fintel & Sabine Iatridou. 2020. Prolegomena to a theory of X-marking. ms, under review. URL: <https://semanticsarchive.net/Archive/zdjYTJjY/fintel-iatridou-2020-x.pdf>.
 
