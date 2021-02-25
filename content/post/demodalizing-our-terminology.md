@@ -34,4 +34,4 @@ There are pros and cons with all of these and if this was a thorough essay, I wo
 
 A corollary is that work that posits a "Speech Act Phrase" (SAP) should consider switching to "Language Act Phrase" (LAP).
 
-If you'd like to comment, please [reply on twitter]().
+If you'd like to comment, please [reply on twitter](https://twitter.com/fintelkai/status/1364983208840990722?s=20).
