@@ -48,24 +48,24 @@ table {
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 /* links */
 
 a:link, a:visited {
-    color: var(--accent);
+  color: #A31F34;
 }
 
 a.icon:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    color: var(--accent) !important;
+  color: #A31F34 !important;
 }
 
 /* date */
 
 .date {
-color: #C2C0BF
+  color: #C2C0BF
 }

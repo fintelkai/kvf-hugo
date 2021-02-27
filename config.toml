@@ -1,10 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
 title = "semantics etc."
-theme = "hugo-xmin"
-
-[params]
-    accent = "#A31F34"
 
 [permalinks]
   post = "/:slug/"
@@ -14,5 +10,7 @@ theme = "hugo-xmin"
     name = "semantics etc."
     weight = 1
     
-[blackfriday]
-  fractions = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
