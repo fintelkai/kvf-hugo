@@ -7,7 +7,7 @@ weight: 5
 
 <img src="/images/kai.jpg" class="alignnone size-full wp-image-677" />
 
-This is the website of Kai von Fintel. I'm a professor of [linguistics](http://mit.edu/linguistics) at [MIT](http://mit.edu/). I work on meaning. I have a wife, two kids, two cats, and a dog. I live in an intentional community ([Mosaic Commons Cohousing](http://mosaic-commons.org/)) in Berlin, Massachusetts. I am a runner. I like soccer, a lot. I was born on a cold winter's night in a small village on the Lüneburg Heath in Northern Germany. My pronouns are he/him/his.
+This is the website of Kai von Fintel. I'm a professor of [linguistics](http://mit.edu/linguistics) at [MIT](http://mit.edu/). I work on meaning. I have a wife, two adult children, two cats, and a dog. I live in an intentional community ([Mosaic Commons Cohousing](http://mosaic-commons.org/)) in Berlin, Massachusetts. I am a runner. I like soccer, a lot. I was born on a cold winter's night in a small village on the Lüneburg Heath in Northern Germany. My pronouns are he/him/his.
 
 This isn't the only place I'm present on the net:
 
