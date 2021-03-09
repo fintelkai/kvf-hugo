@@ -28,7 +28,7 @@ Here is a fairly complete list of the ideas I gathered (skipping some more facet
 
 There are pros and cons with all of these and if this was a thorough essay, I would go into that, but on brief reflection, my conclusion for now is that I will try to use
 
-- *producer*
+- *producer* or *utterer* (wavering on this)
 - *addressee*
 - *language act*
 
