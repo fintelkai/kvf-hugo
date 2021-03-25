@@ -1,6 +1,6 @@
 ---
 title: "plans"
-date: 2019-01-17
+date: 2021-03-25
 menu: main
 weight: 3
 ---
@@ -19,5 +19,5 @@ Making it through the pandemic
 
 - Head of MIT Linguistics, through June 30, 2021
 * Founding co-editor (with David Beaver) of [*Semantics & Pragmatics*](http://semprag.org).
-* Editorial Board Member of [*Natural Language Semantics*](http://www.springer.com/education+%26+language/linguistics/journal/11050) and [*Linguistics and Philosophy*](http://www.springer.com/education+%26+language/linguistics/journal/10988).
+* Editorial Board Member of [*Natural Language Semantics*](http://www.springer.com/education+%26+language/linguistics/journal/11050), [*Linguistics and Philosophy*](http://www.springer.com/education+%26+language/linguistics/journal/10988), and [*Mind*](https://academic.oup.com/mind).
 * Reviewing for many journals and conferences.
