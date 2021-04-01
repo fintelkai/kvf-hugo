@@ -24,7 +24,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 5\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
-6\. Kai von Fintel & Sabine Iatridou. 2019. Since ~~since~~. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
+6\. Kai von Fintel & Sabine Iatridou. 2019. Since`\st{since}`{=latex}. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
 
 7\. Kai von Fintel. 2018. Conditional desires. Slides from a linguistics colloquium at Georgetown University. URL: <http://mit.edu/fintel/k-cd-slides.pdf>.
 
@@ -106,56 +106,60 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 46\. Kai von Fintel. 2004. How multi-dimensional is quotation? Comments on Chris Potts’ The Dimensions of Quotation, Harvard-MIT-UConn Workshop on Indexicals, Speech Acts, and Logophors, November 20, 2004. URL: <http://mit.edu/fintel/www/pottsquotecomments.pdf>.
 
-47\. Kai von Fintel & Sabine Iatridou. 2003. Epistemic containment. *Linguistic Inquiry* 34(2). 173–198. doi:[10.1162/002438903321663370](https://doi.org/10.1162/002438903321663370). URL: <http://mit.edu/fintel/fintel-iatridou-2003-ec.pdf>.
+47\. Kai von Fintel. 2003. Epistemic modals and conditionals revisited. Slides from a linguistics colloquium at University of Massachusetts at Amherst. URL: <http://mit.edu/fintel/fintel-2003-umass-epistemics.pdf>.
 
-48\. Kai von Fintel & Sabine Iatridou. 2002. If and when *if*-clauses can restrict quantifiers. Unpublished manuscript, MIT \[written for the Workshop in Philosophy and Linguistics at the University of Michigan, November 8–10, 2002\]. URL: <http://mit.edu/fintel/fintel-iatridou-2002-ifwhen.pdf>.
+48\. Kai von Fintel & Sabine Iatridou. 2003. Epistemic containment. *Linguistic Inquiry* 34(2). 173–198. doi:[10.1162/002438903321663370](https://doi.org/10.1162/002438903321663370). URL: <http://mit.edu/fintel/fintel-iatridou-2003-ec.pdf>.
 
-49\. Kai von Fintel. 2001. Some choicepoints in the syntax/semantics architecture for tense (and aspect). Seminar handout. URL: <http://mit.edu/fintel/fintel-2001-choicepoints.pdf>.
+49\. Kai von Fintel & Sabine Iatridou. 2002. Unembeddable meanings: The meanings of epistemic modality. Slides from an invited talk at Sinn und Bedeutung 7, Universität Konstanz. URL: <http://mit.edu/fintel/fintel-iatridou-2002-epistemic-konstanz.pdf>.
 
-50\. Kai von Fintel. 2001. Conditional strengthening: A case study in implicature. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-2001-condstrength.pdf>.
+50\. Kai von Fintel & Sabine Iatridou. 2002. If and when *if*-clauses can restrict quantifiers. Unpublished manuscript, MIT \[written for the Workshop in Philosophy and Linguistics at the University of Michigan, November 8–10, 2002\]. URL: <http://mit.edu/fintel/fintel-iatridou-2002-ifwhen.pdf>.
 
-51\. Kai von Fintel. 2001. Counterfactuals in a dynamic context. In Michael Kenstowicz (ed.), *Ken Hale: A life in language*, 123–152. MIT Press. URL: <http://mit.edu/fintel/fintel-2001-counterfactuals.pdf>.
+51\. Kai von Fintel. 2001. Some choicepoints in the syntax/semantics architecture for tense (and aspect). Seminar handout. URL: <http://mit.edu/fintel/fintel-2001-choicepoints.pdf>.
 
-52\. Kai von Fintel. 2000. What is presupposition accommodation? Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-2000-accomm.pdf>.
+52\. Kai von Fintel. 2001. Conditional strengthening: A case study in implicature. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-2001-condstrength.pdf>.
 
-53\. Kai von Fintel. 2000. Exceptive constructions. Seminar Notes, MIT. URL: <http://mit.edu/fintel/fintel-2000-exceptives.pdf>.
+53\. Kai von Fintel. 2001. Counterfactuals in a dynamic context. In Michael Kenstowicz (ed.), *Ken Hale: A life in language*, 123–152. MIT Press. URL: <http://mit.edu/fintel/fintel-2001-counterfactuals.pdf>.
 
-54\. Kai von Fintel. 2000. Singleton indefinites (re. Schwarzschild 2000). Handout from a talk to MIT Syntax-Semantics Reading Group. URL: <http://mit.edu/fintel/fintel-2000-singleton.pdf>.
+54\. Kai von Fintel. 2000. What is presupposition accommodation? Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-2000-accomm.pdf>.
 
-55\. Kai von Fintel. 2000. Whatever. *Semantics and Linguistic Theory (SALT)* 10. 27–40. doi:[10.3765/salt.v10i0.3101](https://doi.org/10.3765/salt.v10i0.3101). URL: <http://mit.edu/fintel/fintel-2000-whatever.pdf>.
+55\. Kai von Fintel. 2000. Exceptive constructions. Seminar Notes, MIT. URL: <http://mit.edu/fintel/fintel-2000-exceptives.pdf>.
 
-56\. Kai von Fintel. 1999. Class notes on adjectives. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/www/adjectives.notes.pdf>.
+56\. Kai von Fintel. 2000. Singleton indefinites (re. Schwarzschild 2000). Handout from a talk to MIT Syntax-Semantics Reading Group. URL: <http://mit.edu/fintel/fintel-2000-singleton.pdf>.
 
-57\. Kai von Fintel. 1999. Amount relatives and the meaning of chains. Handout of a talk given at the University of Edinburgh. URL: <http://mit.edu/fintel/www/amountrels.pdf>.
+57\. Kai von Fintel. 2000. Whatever. *Semantics and Linguistic Theory (SALT)* 10. 27–40. doi:[10.3765/salt.v10i0.3101](https://doi.org/10.3765/salt.v10i0.3101). URL: <http://mit.edu/fintel/fintel-2000-whatever.pdf>.
 
-58\. Kai von Fintel. 1999. Quantifier domain selection and pseudo-scope. Handout from a talk at the Cornell Conference on Theories of Context Dependency. URL: <http://mit.edu/fintel/fintel-1999-cornell-context.pdf>.
+58\. Kai von Fintel. 1999. Class notes on adjectives. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/www/adjectives.notes.pdf>.
 
-59\. Kai von Fintel. 1999. NPI licensing, Strawson entailment, and context dependency. *Journal of Semantics* 16(2). 97–148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97). URL: <http://mit.edu/fintel/fintel-1999-npi.pdf>.
+59\. Kai von Fintel. 1999. Amount relatives and the meaning of chains. Handout of a talk given at the University of Edinburgh. URL: <http://mit.edu/fintel/www/amountrels.pdf>.
 
-60\. Kai von Fintel. 1998. Indicative conditionals. Handout from a talk given at Conference on Bridges and Interfaces: Function, Meaning, and Structure at the Charles University Prague (in celebration of its 650th Anniversary), March 1998. URL: <http://mit.edu/fintel/www/indicatives-prague.pdf>.
+60\. Kai von Fintel. 1999. Quantifier domain selection and pseudo-scope. Handout from a talk at the Cornell Conference on Theories of Context Dependency. URL: <http://mit.edu/fintel/fintel-1999-cornell-context.pdf>.
 
-61\. Kai von Fintel. 1998. Evidence for presuppositional indefinites. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1998-presupp-indef.pdf>.
+61\. Kai von Fintel. 1999. NPI licensing, Strawson entailment, and context dependency. *Journal of Semantics* 16(2). 97–148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97). URL: <http://mit.edu/fintel/fintel-1999-npi.pdf>.
 
-62\. Kai von Fintel. 1998. Quantifiers and *If*-clauses. *The Philosophical Quarterly* 48(191). 209–214. doi:[10.1111/1467-9213.00095](https://doi.org/10.1111/1467-9213.00095). URL: <http://mit.edu/fintel/fintel-1998-qandif.pdf>.
+62\. Kai von Fintel. 1998. Indicative conditionals. Handout from a talk given at Conference on Bridges and Interfaces: Function, Meaning, and Structure at the Charles University Prague (in celebration of its 650th Anniversary), March 1998. URL: <http://mit.edu/fintel/www/indicatives-prague.pdf>.
 
-63\. Kai von Fintel. 1998. The semantics and pragmatics of quantifier domains. Notes for Vilem Mathesius Lectures, Prague, March 1998. URL: <http://mit.edu/fintel/fintel-1998-qic.pdf>.
+63\. Kai von Fintel. 1998. Evidence for presuppositional indefinites. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1998-presupp-indef.pdf>.
 
-64\. Kai von Fintel. 1998. The presupposition of subjunctive conditionals. In Uli Sauerland & Orin Percus (eds.), *The interpretive tract*, 29–44. (MIT Working Papers in Linguistics 25). Cambridge, MA: MITWPL. URL: <http://mit.edu/fintel/fintel-1998-subjunctive.pdf>.
+64\. Kai von Fintel. 1998. Quantifiers and *If*-clauses. *The Philosophical Quarterly* 48(191). 209–214. doi:[10.1111/1467-9213.00095](https://doi.org/10.1111/1467-9213.00095). URL: <http://mit.edu/fintel/fintel-1998-qandif.pdf>.
 
-65\. Kai von Fintel. 1997. Bare plurals, bare conditionals, and *only*. *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). URL: <http://mit.edu/fintel/fintel-1997-bare.pdf>.
+65\. Kai von Fintel. 1998. The semantics and pragmatics of quantifier domains. Notes for Vilem Mathesius Lectures, Prague, March 1998. URL: <http://mit.edu/fintel/fintel-1998-qic.pdf>.
 
-66\. Kai von Fintel. 1997. Context and (mis)communication. Unpublished ms, responding to Chris Gauker’s “Domains of discourse” (*Mind*, 1997). URL: <http://mit.edu/fintel/fintel-1997-gauker.pdf>.
+66\. Kai von Fintel. 1998. The presupposition of subjunctive conditionals. In Uli Sauerland & Orin Percus (eds.), *The interpretive tract*, 29–44. (MIT Working Papers in Linguistics 25). Cambridge, MA: MITWPL. URL: <http://mit.edu/fintel/fintel-1998-subjunctive.pdf>.
 
-67\. Kai von Fintel. 1996. Specific generics. Handout from a Linguistics Colloquium given at Rutgers University. URL: <http://mit.edu/fintel/fintel-1996-specific-generics.pdf>.
+67\. Kai von Fintel. 1997. Bare plurals, bare conditionals, and *only*. *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). URL: <http://mit.edu/fintel/fintel-1997-bare.pdf>.
 
-68\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
+68\. Kai von Fintel. 1997. Context and (mis)communication. Unpublished ms, responding to Chris Gauker’s “Domains of discourse” (*Mind*, 1997). URL: <http://mit.edu/fintel/fintel-1997-gauker.pdf>.
 
-69\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
+69\. Kai von Fintel. 1996. Specific generics. Handout from a Linguistics Colloquium given at Rutgers University. URL: <http://mit.edu/fintel/fintel-1996-specific-generics.pdf>.
 
-70\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
+70\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
 
-71\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
+71\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
 
-72\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *Northeast Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+72\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
 
-73\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. Department of Linguistics, University of Massachusetts at Amherst.
+73\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
+
+74\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *Northeast Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+
+75\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. Department of Linguistics, University of Massachusetts at Amherst.
