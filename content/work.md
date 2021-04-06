@@ -14,7 +14,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Anthony S. Gillies. 2021. Still going strong. *Natural Language Semantics*. doi:[10.1007/s11050-020-09171-x](https://doi.org/10.1007/s11050-020-09171-x). URL: <http://mit.edu/fintel/fintel-gillies-2021-stillgoingstrong.pdf>.
+1\. Kai von Fintel & Anthony S. Gillies. 2021. Still going strong. *Natural Language Semantics* 29(1). 91-113. doi:[10.1007/s11050-020-09171-x](https://doi.org/10.1007/s11050-020-09171-x). URL: <http://mit.edu/fintel/fintel-gillies-2021-stillgoingstrong.pdf>.
 
 2\. Kai von Fintel & Robert Pasternak. 2020. Attitudes, aboutness, and fake restricted readings. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
 
@@ -24,7 +24,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 5\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
-6\. Kai von Fintel & Sabine Iatridou. 2019. Since ~~since~~. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
+6\. Kai von Fintel & Sabine Iatridou. 2019. Since`\st{since}`{=latex}. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
 
 7\. Kai von Fintel. 2018. Conditional desires. Slides from a linguistics colloquium at Georgetown University. URL: <http://mit.edu/fintel/k-cd-slides.pdf>.
 
