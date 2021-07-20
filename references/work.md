@@ -14,7 +14,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel. 2021. How weak is your *want*? Note. doi:[10.5281/zenodo.5117813](https://doi.org/10.5281/zenodo.5117813).
+1\. Kai von Fintel. 2021. How weak is your *want*? Note. doi:[10.5281/zenodo.5117849](https://doi.org/10.5281/zenodo.5117849).
 
 2\. Kai von Fintel & Anthony S. Gillies. 2021. Still going strong. *Natural Language Semantics* 29(1). 91–113. doi:[10.1007/s11050-020-09171-x](https://doi.org/10.1007/s11050-020-09171-x). URL: <http://mit.edu/fintel/fintel-gillies-2021-stillgoingstrong.pdf>.
 
