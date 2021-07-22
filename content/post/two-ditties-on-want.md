@@ -15,5 +15,5 @@ They're on LingBuzz, for what it's worth, but I've also uploaded them at [Zenodo
 Full info:
 
 - Kai von Fintel. 2018. On the monotonicity of desire ascriptions. doi:[10.5281/zenodo.5116584](https://doi.org/10.5281/zenodo.5116584).
-- Kai von Fintel. 2021. How weak is your *want*? doi:[10.5281/zenodo.5117849](https://doi.org/10.5281/zenodo.5117849).
+- Kai von Fintel. 2021. How weak is your *want*? doi:[10.5281/zenodo.5123513](https://doi.org/10.5281/zenodo.5123513).
  
