@@ -22,7 +22,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 4\. Kai von Fintel & Sabine Iatridou. 2020. Prolegomena to a theory of X-marking. ms, under review. URL: <https://semanticsarchive.net/Archive/zdjYTJjY/fintel-iatridou-2020-x.pdf>.
 
-5\. David Beaver & Kai von Fintel. 2019. Variable costs. Website for course taught at ESSLLI 2019 in Riga, Latvia. URL: <https://dkcosts.kvf.me/>.
+5\. David Beaver & Kai von Fintel. 2019. Variable costs. Website for course taught at ESSLLI 2019 in Riga, Latvia. URL: <http://mit.edu/fintel/beaver-fintel-2019-dk-costs-esslli.pdf>.
 
 6\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
