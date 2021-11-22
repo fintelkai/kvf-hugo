@@ -84,9 +84,9 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 35\. Kai von Fintel. 2006. Modality and language. In Donald M. Borchert (ed.), *Encyclopedia of philosophy – second edition*, vol. 10, 20–27. Detroit: MacMillan Reference USA. URL: <http://mit.edu/fintel/fintel-2006-modality.pdf>.
 
-36\. Kai von Fintel. 2006. Ordinary conditionals. Slides from a presentation at the UConn Conditionals Conference, April 8, 2006. URL: <http://mit.edu/fintel/www/uconn-slides.pdf>.
+36\. Kai von Fintel. 2006. Ordinary conditionals. Slides from a presentation at the UConn Conditionals Conference, April 8, 2006. URL: <http://mit.edu/fintel/fintel-2006-uconn-conditionals.pdf>.
 
-37\. Kai von Fintel. 2005. Comments on Kaufmann. Contribution to the 4th Michigan Workshop on Philosophy and Linguistics, comments on Stefan Kaufmann’s paper "Local and Global Interpretations of Conditionals", October 29, 2005. URL: <http://mit.edu/fintel/www/lpw05.kaufmann-comments.pdf>.
+37\. Kai von Fintel. 2005. Comments on Kaufmann. Contribution to the 4th Michigan Workshop on Philosophy and Linguistics, comments on Stefan Kaufmann’s paper "Local and Global Interpretations of Conditionals", October 29, 2005. URL: <http://mit.edu/fintel/fintel-2005-comments-on-kaufmann.pdf>.
 
 38\. Kai von Fintel. 2005. Postscript to *Whatever*: Comments on Condoravdi. Handout from a Talk at LSA Workshop on "Context and Content: Topics in Formal Pragmatics", July 15, 2005-01-01, Cambridge, MA. URL: <http://mit.edu/fintel/fintel-2005-condoravdi-comments.pdf>.
 
@@ -108,7 +108,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 47\. Kai von Fintel. 2004. Minimal replies to Dekker, Hajičová & Sgall, Berman, and DeSwart. In Hans Kamp & Barbara Partee (eds.), *Context-dependence in the analysis of linguistic meaning*, 541–547. (Current Research in the Semantics/Pragmatics Interface). Amsterdam: Elsevier. \[written in 1995\]. URL: <http://mit.edu/fintel/fintel-2004-minimal-replies.pdf>.
 
-48\. Kai von Fintel. 2004. How multi-dimensional is quotation? Comments on Chris Potts’ The Dimensions of Quotation, Harvard-MIT-UConn Workshop on Indexicals, Speech Acts, and Logophors, November 20, 2004. URL: <http://mit.edu/fintel/www/pottsquotecomments.pdf>.
+48\. Kai von Fintel. 2004. How multi-dimensional is quotation? Comments on Chris Potts’ The Dimensions of Quotation, Harvard-MIT-UConn Workshop on Indexicals, Speech Acts, and Logophors, November 20, 2004. URL: <http://mit.edu/fintel/fintel-2004-pottsquotecomments.pdf>.
 
 49\. Kai von Fintel. 2003. Epistemic modals and conditionals revisited. Slides from a linguistics colloquium at University of Massachusetts at Amherst. URL: <http://mit.edu/fintel/fintel-2003-umass-epistemics.pdf>.
 
@@ -132,15 +132,15 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 59\. Kai von Fintel. 2000. Whatever. *Semantics and Linguistic Theory (SALT)* 10. 27–40. doi:[10.3765/salt.v10i0.3101](https://doi.org/10.3765/salt.v10i0.3101). URL: <http://mit.edu/fintel/fintel-2000-whatever.pdf>.
 
-60\. Kai von Fintel. 1999. Class notes on adjectives. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/www/adjectives.notes.pdf>.
+60\. Kai von Fintel. 1999. Class notes on adjectives. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1999-adjectives.pdf>.
 
-61\. Kai von Fintel. 1999. Amount relatives and the meaning of chains. Handout of a talk given at the University of Edinburgh. URL: <http://mit.edu/fintel/www/amountrels.pdf>.
+61\. Kai von Fintel. 1999. Amount relatives and the meaning of chains. Handout of a talk given at the University of Edinburgh. URL: <http://mit.edu/fintel/fintel-1999-amount.pdf>.
 
 62\. Kai von Fintel. 1999. Quantifier domain selection and pseudo-scope. Handout from a talk at the Cornell Conference on Theories of Context Dependency. URL: <http://mit.edu/fintel/fintel-1999-cornell-context.pdf>.
 
 63\. Kai von Fintel. 1999. NPI licensing, Strawson entailment, and context dependency. *Journal of Semantics* 16(2). 97–148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97). URL: <http://mit.edu/fintel/fintel-1999-npi.pdf>.
 
-64\. Kai von Fintel. 1998. Indicative conditionals. Handout from a talk given at Conference on Bridges and Interfaces: Function, Meaning, and Structure at the Charles University Prague (in celebration of its 650th Anniversary), March 1998. URL: <http://mit.edu/fintel/www/indicatives-prague.pdf>.
+64\. Kai von Fintel. 1998. Indicative conditionals. Handout from a talk given at Conference on Bridges and Interfaces: Function, Meaning, and Structure at the Charles University Prague (in celebration of its 650th Anniversary), March 1998. URL: <http://mit.edu/fintel/fintel-1998-indicative-prague.pdf>.
 
 65\. Kai von Fintel. 1998. Evidence for presuppositional indefinites. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1998-presupp-indef.pdf>.
 
