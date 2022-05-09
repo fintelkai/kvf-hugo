@@ -25,7 +25,7 @@ Just kidding, there are no prerequisites other than being interested in the clas
 
 If you need to refresh some background on intensional semantics, it might be useful to review the first three chapters of the von Fintel & Heim textbook:
 
-- Kai von Fintel & Irene Heim. 2022. [Intensional semantics](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/IntensionalSemantics.pdf). Chs.1-3.
+- Kai von Fintel & Irene Heim. 2022. [Intensional semantics](https://github.com/fintelkai/fintel-heim-intensional-notes/raw/master/IntensionalSemantics.pdf). Chs.1-3.
 
 ## Early readings on X-marking
 
