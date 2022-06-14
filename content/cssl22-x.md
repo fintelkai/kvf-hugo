@@ -1,6 +1,6 @@
 ---
 title: "CSSL22 X-marking"
-date: 2022-05-09
+date: 2022-06-14
 ---
 
 ## Venue
@@ -15,7 +15,7 @@ date: 2022-05-09
 
 ## Course description
 
-X-marking is a term proposed by von Fintel & Iatridou 2020 for morphological markers that have a characteristic set of uses crosslinguistically, at least the following three: (i) they are used to distinguish conditionals that are often called "counterfactual" or "subjunctive" from those that are not called that (but crucially, the marking does not actually always signal counterfactuality, nor is it consistently "subjunctive"), (ii) they are used in the expression of unattainable desires, and (iii) they are used in the construction of weak necessity modality. Some exponents of X-marking across languages include "fake past tense", "fake imperfective aspect", subjunctive/irrealis mood, and dedicated markers (Hungarian -nA, Russian by). In this course, we will explore the semantic side of X-marking and assess the prospects for a unified compositional analysis. 
+X-marking is a term proposed by von Fintel & Iatridou 2022 for morphological markers that have a characteristic set of uses crosslinguistically, at least the following three: (i) they are used to distinguish conditionals that are often called "counterfactual" or "subjunctive" from those that are not called that (but crucially, the marking does not actually always signal counterfactuality, nor is it consistently "subjunctive"), (ii) they are used in the expression of unattainable desires, and (iii) they are used in the construction of weak necessity modality. Some exponents of X-marking across languages include "fake past tense", "fake imperfective aspect", subjunctive/irrealis mood, and dedicated markers (Hungarian -nA, Russian by). In this course, we will explore the semantic side of X-marking and assess the prospects for a unified compositional analysis. 
 
 ## Prerequisites
 
@@ -34,7 +34,8 @@ These readings should get you started thinking about these topics. Do not expect
 - Kai von Fintel. 1998. [The presupposition of subjunctive conditionals](http://mit.edu/fintel/fintel-1998-subjunctive.pdf). In Uli Sauerland & Orin Percus (eds.), *The interpretive tract*, 29–44. (MIT Working Papers in Linguistics 25). Cambridge, MA: MITWPL.
 - Sabine Iatridou. 2000. [The grammatical ingredients of counterfactuality](/pdf/iatridou-2000-Ingredients.pdf). *Linguistic Inquiry* 31(2). 231--270. doi:[10.1162/002438900554352](https://doi.org/10.1162/002438900554352).
 - Kai von Fintel & Sabine Iatridou. 2008. [How to say *ought* in Foreign: The composition of weak necessity modals](/pdf/fintel-iatridou-2008-ought.pdf). In Jacqueline Guéron & Jacqueline Lecarme (eds.), *Time and modality*, 115--141. (Studies in Natural Language and Linguistic Theory 75). Springer. doi:[10.1007/978-1-4020-8354-9](https://doi.org/10.1007/978-1-4020-8354-9).
-
+- Kai von Fintel & Sabine Iatridou. 2022. [Prolegomena to a theory of X-marking](http://mit.edu/fintel/fintel-iatridou-2022-x.pdf). ms, under review. 
+- 
 ## Further readings
 
 To be announced and added as we proceed, including during the summer school, which is also when I will post the slides used in class.
