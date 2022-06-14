@@ -14,13 +14,13 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel. 2021. How weak is your *want*? Note. doi:[10.5281/zenodo.5123513](https://doi.org/10.5281/zenodo.5123513).
+1\. Kai von Fintel & Sabine Iatridou. 2022. Prolegomena to a theory of X-marking. ms, under review. URL: <http://mit.edu/fintel/fintel-iatridou-2022-x.pdf>.
 
-2\. Kai von Fintel & Anthony S. Gillies. 2021. Still going strong. *Natural Language Semantics* 29(1). 91–113. doi:[10.1007/s11050-020-09171-x](https://doi.org/10.1007/s11050-020-09171-x). URL: <http://mit.edu/fintel/fintel-gillies-2021-stillgoingstrong.pdf>.
+2\. Kai von Fintel. 2021. How weak is your *want*? Note. doi:[10.5281/zenodo.5123513](https://doi.org/10.5281/zenodo.5123513).
 
-3\. Kai von Fintel & Robert Pasternak. 2020. Attitudes, aboutness, and fake restricted readings. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
+3\. Kai von Fintel & Anthony S. Gillies. 2021. Still going strong. *Natural Language Semantics* 29(1). 91–113. doi:[10.1007/s11050-020-09171-x](https://doi.org/10.1007/s11050-020-09171-x). URL: <http://mit.edu/fintel/fintel-gillies-2021-stillgoingstrong.pdf>.
 
-4\. Kai von Fintel & Sabine Iatridou. 2020. Prolegomena to a theory of X-marking. ms, under review. URL: <https://semanticsarchive.net/Archive/zdjYTJjY/fintel-iatridou-2020-x.pdf>.
+4\. Kai von Fintel & Robert Pasternak. 2020. Attitudes, aboutness, and fake restricted readings. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
 
 5\. David Beaver & Kai von Fintel. 2019. Variable costs. Website for course taught at ESSLLI 2019 in Riga, Latvia. URL: <http://mit.edu/fintel/beaver-fintel-2019-dk-costs-esslli.pdf>.
 
