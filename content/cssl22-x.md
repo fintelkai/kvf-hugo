@@ -35,7 +35,7 @@ These readings should get you started thinking about these topics. Do not expect
 - Sabine Iatridou. 2000. [The grammatical ingredients of counterfactuality](/pdf/iatridou-2000-Ingredients.pdf). *Linguistic Inquiry* 31(2). 231--270. doi:[10.1162/002438900554352](https://doi.org/10.1162/002438900554352).
 - Kai von Fintel & Sabine Iatridou. 2008. [How to say *ought* in Foreign: The composition of weak necessity modals](/pdf/fintel-iatridou-2008-ought.pdf). In Jacqueline Guéron & Jacqueline Lecarme (eds.), *Time and modality*, 115--141. (Studies in Natural Language and Linguistic Theory 75). Springer. doi:[10.1007/978-1-4020-8354-9](https://doi.org/10.1007/978-1-4020-8354-9).
 - Kai von Fintel & Sabine Iatridou. 2022. [Prolegomena to a theory of X-marking](http://mit.edu/fintel/fintel-iatridou-2022-x.pdf). ms, under review. 
-- 
+
 ## Further readings
 
 To be announced and added as we proceed, including during the summer school, which is also when I will post the slides used in class.
