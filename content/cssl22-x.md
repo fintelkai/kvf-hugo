@@ -38,4 +38,14 @@ These readings should get you started thinking about these topics. Do not expect
 
 ## Further readings
 
-To be announced and added as we proceed, including during the summer school, which is also when I will post the slides used in class.
+Two very recent papers on X-marking that go beyond what is in our paper are these:
+
+- Kjell Johan Sæbø. 2021. [Non-actualistic mood in Czech, Russian, German, and Norwegian](/pdf/saeboe-2021-NonActualisticMood.pdf). ms, University of Oslo, December 31, 2021.
+- Marcelo Ferreira. 2022. [A square of necessities: x-marking weak and strong necessity modals](ferreira-2022-SquareNecessitiesXmarking.pdf). ms, Universidade de São Paulo, June 10, 2022.
+
+Both authors kindly agreed to let me share their manuscripts with the CreteLing audience.
+
+## Class slides
+
+Slides will be posted on each class day shortly before we meet.
+
