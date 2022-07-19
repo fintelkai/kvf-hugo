@@ -50,4 +50,5 @@ Both authors kindly agreed to let me share their manuscripts with the CreteLing 
 Slides will be posted on each class day shortly before we meet.
 
 - [Slides from Day 1](/pdf/x-cssl22-slides-1.pdf)
+- [Slides from Day 2](/pdf/x-cssl22-slides-2.pdf)
 
