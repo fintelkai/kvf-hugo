@@ -45,10 +45,11 @@ Two very recent papers on X-marking that go beyond what is in our paper are thes
 
 Both authors kindly agreed to let me share their manuscripts with the CreteLing audience.
 
-## Class slides
+## Class ematerials
 
 Slides will be posted on each class day shortly before we meet.
 
 - [Slides from Day 1](/pdf/x-cssl22-slides-1.pdf)
 - [Slides from Day 2](/pdf/x-cssl22-slides-2.pdf)
+- [Running bibliography of works cited in class](/pdf/x-cssl22-bibliography.pdf)
 
