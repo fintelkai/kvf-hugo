@@ -45,7 +45,7 @@ Two very recent papers on X-marking that go beyond what is in our paper are thes
 
 Both authors kindly agreed to let me share their manuscripts with the CreteLing audience.
 
-## Class ematerials
+## Class materials
 
 Slides will be posted on each class day shortly before we meet.
 
