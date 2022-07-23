@@ -45,6 +45,19 @@ Two very recent papers on X-marking that go beyond what is in our paper are thes
 
 Both authors kindly agreed to let me share their manuscripts with the CreteLing audience.
 
+## Readings on X = past
+
+Highly recommended:
+
+- Justin Khoo. 2015. [On indicative and subjunctive conditionals](https://doi.org/2027/spo.3521354.0015.032). *Philosophers’ Imprint* 15(32).
+- Maribel Romero. 2014. [‘Fake tense’ in counterfactuals: A temporal remoteness approach](http://semanticsarchive.net/Archive/jZiNmM4N/Romero.pdf). In Luka Crnič & Uli Sauerland (eds.), The art and craft of semantics: A festschrift for Irene Heim, vol. 2, 47–63. Cambride, MA: MIT Working Papers in Linguistics.
+
+## Reading on X = modal widening
+
+Highly recommended:
+
+- John Mackay. 2019. [Modal interpretation of tense in subjunctive conditionals](https://doi.org/10.3765/sp.12.2). Semantics and Pragmatics 12(2). 1–29.
+
 ## Class materials
 
 Slides will be posted on each class day shortly before we meet.
