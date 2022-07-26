@@ -67,5 +67,6 @@ Slides will be posted on each class day shortly before we meet.
 - [Slides from Day 3](/pdf/x-cssl22-slides-3.pdf)
 - [Slides from Day 4](/pdf/x-cssl22-slides-4.pdf)
 - [Slides from Day 5](/pdf/x-cssl22-slides-5.pdf)
+- [Slides from Day 6](/pdf/x-cssl22-slides-6.pdf)
 - [Running bibliography of works cited in class](/pdf/x-cssl22-bibliography.pdf)
 
