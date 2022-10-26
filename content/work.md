@@ -16,7 +16,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 1\. Kai von Fintel & Robert Pasternak. 2022. Attitudes, aboutness, and indirect restriction. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
 
-2\. Kai von Fintel & Sabine Iatridou. 2022. Prolegomena to a theory of X-marking. ms, under review. URL: <http://mit.edu/fintel/fintel-iatridou-2022-x.pdf>.
+2\. Kai von Fintel & Sabine Iatridou. 2022. Prolegomena to a theory of X-marking. accepted (with minor revisions) at *Linguistics and Philosophy*. URL: <http://mit.edu/fintel/fintel-iatridou-2022-x.pdf>.
 
 3\. Kai von Fintel. 2021. How weak is your *want*? Note. doi:[10.5281/zenodo.5123513](https://doi.org/10.5281/zenodo.5123513).
 
