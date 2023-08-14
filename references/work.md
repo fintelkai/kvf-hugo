@@ -20,7 +20,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 3\. Kai von Fintel. 2022. In a word. Seven short columns for the *Monitor Weekly*. URL: <https://kaivonfintel.org/inaword>.
 
-4\. Kai von Fintel & Robert Pasternak. 2022. Attitudes, aboutness, and indirect restriction. ms, under review. URL: <https://ling.auf.net/lingbuzz/005328>.
+4\. Kai von Fintel & Robert Pasternak. 2022. Attitudes, aboutness, and indirect restriction. Accepted with minor revisions at *Linguistics and Philosophy*. URL: <https://ling.auf.net/lingbuzz/005328>.
 
 5\. Kai von Fintel. 2021. How weak is your *want*? Note. doi:[10.5281/zenodo.5123513](https://doi.org/10.5281/zenodo.5123513).
 
@@ -38,7 +38,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 12\. Kai von Fintel. 2018. Bridges to philosophy. Slides from a talk at the workshop “Semantics 2018: Looking Ahead”, part of Angelika Fest 2018-01-01, UMass Amherst. URL: <http://mit.edu/fintel/fintel-2018-ak-bridges.pdf>.
 
-13\. Kai von Fintel & Edward L. Keenan. 2018. Determiners, conservativity, witnesses. *Journal of Semantics*. doi:[10.1093/jos/ffx018](https://doi.org/10.1093/jos/ffx018). URL: <http://mit.edu/fintel/fintel-keenan-2018-witness.html>.
+13\. Kai von Fintel & Edward L. Keenan. 2018. Determiners, conservativity, witnesses. *Journal of Semantics* 35(1). 207–217. doi:[10.1093/jos/ffx018](https://doi.org/10.1093/jos/ffx018). URL: <http://mit.edu/fintel/fintel-keenan-2018-witness.html>.
 
 14\. Kai von Fintel & Sabine Iatridou. 2017. A modest proposal for the meaning of imperatives. In Ana Arregui, Marı́a Luisa Rivero & Andrés Salanova (eds.), *Modality across syntactic categories*, 288–319. Oxford University Press. doi:[10.1093/acprof:oso/9780198718208.003.0013](https://doi.org/10.1093/acprof:oso/9780198718208.003.0013). URL: <http://mit.edu/fintel/fintel-iatridou-2017-modest.pdf>.
 
@@ -164,12 +164,12 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 75\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
 
-76\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
+76\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. Dissertation Committee: Angelika Kratzer (chair), Barbara Partee, Roger Higgins, Emmon Bach, and Philip Bricker. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
 
 77\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
 
 78\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
 
-79\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *Northeast Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+79\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *North East Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
 
 80\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. URL: <https://scholarworks.umass.edu/umop/vol15/iss2/7>.
