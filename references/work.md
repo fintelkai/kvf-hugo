@@ -14,7 +14,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Sabine Iatridou. 2023. Prolegomena to a theory of X-marking. *Linguistics and Philosophy*. doi:[10.1007/s10988-023-09390-5](https://doi.org/10.1007/s10988-023-09390-5).
+1\. Kai von Fintel & Sabine Iatridou. 2023. Prolegomena to a theory of X-marking. *Linguistics and Philosophy* 46(6). 1467–1510. doi:[10.1007/s10988-023-09390-5](https://doi.org/10.1007/s10988-023-09390-5).
 
 2\. Kai von Fintel & Sabine Iatridou. 2023. Unasked questions. Slides from recent talks on ongoing work. URL: <http://mit.edu/fintel/fintel-iatridou-2023-uq-slides.pdf>.
 
