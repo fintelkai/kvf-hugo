@@ -160,16 +160,18 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 73\. Kai von Fintel. 1997. Context and (mis)communication. Unpublished ms, responding to Chris Gauker’s “Domains of discourse” (*Mind*, 1997). URL: <http://mit.edu/fintel/fintel-1997-gauker.pdf>.
 
-74\. Kai von Fintel. 1996. Specific generics. Handout from a Linguistics Colloquium given at Rutgers University. URL: <http://mit.edu/fintel/fintel-1996-specific-generics.pdf>.
+74\. Kai von Fintel. 1997. Some notes on disjunctive antecedents in conditionals. doi:[10.5281/zenodo.10109894](https://doi.org/10.5281/zenodo.10109894).
 
-75\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
+75\. Kai von Fintel. 1996. Specific generics. Handout from a Linguistics Colloquium given at Rutgers University. URL: <http://mit.edu/fintel/fintel-1996-specific-generics.pdf>.
 
-76\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. Dissertation Committee: Angelika Kratzer (chair), Barbara Partee, Roger Higgins, Emmon Bach, and Philip Bricker. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
+76\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
 
-77\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
+77\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. Dissertation Committee: Angelika Kratzer (chair), Barbara Partee, Roger Higgins, Emmon Bach, and Philip Bricker. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
 
-78\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
+78\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
 
-79\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *North East Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+79\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
 
-80\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. URL: <https://scholarworks.umass.edu/umop/vol15/iss2/7>.
+80\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *North East Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+
+81\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. URL: <https://scholarworks.umass.edu/umop/vol15/iss2/7>.
