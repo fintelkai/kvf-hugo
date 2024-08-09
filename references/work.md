@@ -14,9 +14,9 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Sabine Iatridou. 2024. Comments on Krifka. Slides from commentary on a talk by Manfred Krifka at a ZAS workshop on speech-act related operators. URL: <http://mit.edu/fintel/fintel-iatridou-2024-krifka-comments.pdf>.
+1\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
 
-2\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
+2\. Kai von Fintel & Sabine Iatridou. 2024. Comments on Krifka. Slides from commentary on a talk by Manfred Krifka at a ZAS workshop on speech-act related operators. URL: <http://mit.edu/fintel/fintel-iatridou-2024-krifka-comments.pdf>.
 
 3\. Kai von Fintel & Sabine Iatridou. 2024. Unasked questions. Slides from recent talks on ongoing work. URL: <http://mit.edu/fintel/fintel-iatridou-2024-UnaskedQuestionsSlides.pdf>.
 
