@@ -146,38 +146,40 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 66\. Kai von Fintel. 1999. Class notes on adjectives. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1999-adjectives.pdf>.
 
-67\. Kai von Fintel. 1999. Amount relatives and the meaning of chains. Handout of a talk given at the University of Edinburgh. URL: <http://mit.edu/fintel/fintel-1999-amount.pdf>.
+67\. Kai von Fintel. 1999. Class notes on *whatever*. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1999-WhateverClassNotes.pdf>.
 
-68\. Kai von Fintel. 1999. Quantifier domain selection and pseudo-scope. Handout from a talk at the Cornell Conference on Theories of Context Dependency. URL: <http://mit.edu/fintel/fintel-1999-cornell-context.pdf>.
+68\. Kai von Fintel. 1999. Amount relatives and the meaning of chains. Handout of a talk given at the University of Edinburgh. URL: <http://mit.edu/fintel/fintel-1999-amount.pdf>.
 
-69\. Kai von Fintel. 1999. NPI licensing, Strawson entailment, and context dependency. *Journal of Semantics* 16(2). 97–148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97). URL: <http://mit.edu/fintel/fintel-1999-npi.pdf>.
+69\. Kai von Fintel. 1999. Quantifier domain selection and pseudo-scope. Handout from a talk at the Cornell Conference on Theories of Context Dependency. URL: <http://mit.edu/fintel/fintel-1999-cornell-context.pdf>.
 
-70\. Kai von Fintel. 1998. Indicative conditionals. Handout from a talk given at Conference on Bridges and Interfaces: Function, Meaning, and Structure at the Charles University Prague (in celebration of its 650th Anniversary), March 1998. URL: <http://mit.edu/fintel/fintel-1998-indicative-prague.pdf>.
+70\. Kai von Fintel. 1999. NPI licensing, Strawson entailment, and context dependency. *Journal of Semantics* 16(2). 97–148. doi:[10.1093/jos/16.2.97](https://doi.org/10.1093/jos/16.2.97). URL: <http://mit.edu/fintel/fintel-1999-npi.pdf>.
 
-71\. Kai von Fintel. 1998. Evidence for presuppositional indefinites. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1998-presupp-indef.pdf>.
+71\. Kai von Fintel. 1998. Indicative conditionals. Handout from a talk given at Conference on Bridges and Interfaces: Function, Meaning, and Structure at the Charles University Prague (in celebration of its 650th Anniversary), March 1998. URL: <http://mit.edu/fintel/fintel-1998-indicative-prague.pdf>.
 
-72\. Kai von Fintel. 1998. Quantifiers and *If*-clauses. *The Philosophical Quarterly* 48(191). 209–214. doi:[10.1111/1467-9213.00095](https://doi.org/10.1111/1467-9213.00095). URL: <http://mit.edu/fintel/fintel-1998-qandif.pdf>.
+72\. Kai von Fintel. 1998. Evidence for presuppositional indefinites. Unpublished manuscript, MIT. URL: <http://mit.edu/fintel/fintel-1998-presupp-indef.pdf>.
 
-73\. Kai von Fintel. 1998. The semantics and pragmatics of quantifier domains. Notes for Vilem Mathesius Lectures, Prague, March 1998. URL: <http://mit.edu/fintel/fintel-1998-qic.pdf>.
+73\. Kai von Fintel. 1998. Quantifiers and *If*-clauses. *The Philosophical Quarterly* 48(191). 209–214. doi:[10.1111/1467-9213.00095](https://doi.org/10.1111/1467-9213.00095). URL: <http://mit.edu/fintel/fintel-1998-qandif.pdf>.
 
-74\. Kai von Fintel. 1998. The presupposition of subjunctive conditionals. In Uli Sauerland & Orin Percus (eds.), *The interpretive tract*, 29–44. (MIT Working Papers in Linguistics 25). Cambridge, MA: MITWPL. URL: <http://mit.edu/fintel/fintel-1998-subjunctive.pdf>.
+74\. Kai von Fintel. 1998. The semantics and pragmatics of quantifier domains. Notes for Vilem Mathesius Lectures, Prague, March 1998. URL: <http://mit.edu/fintel/fintel-1998-qic.pdf>.
 
-75\. Kai von Fintel. 1997. Bare plurals, bare conditionals, and *only*. *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). URL: <http://mit.edu/fintel/fintel-1997-bare.pdf>.
+75\. Kai von Fintel. 1998. The presupposition of subjunctive conditionals. In Uli Sauerland & Orin Percus (eds.), *The interpretive tract*, 29–44. (MIT Working Papers in Linguistics 25). Cambridge, MA: MITWPL. URL: <http://mit.edu/fintel/fintel-1998-subjunctive.pdf>.
 
-76\. Kai von Fintel. 1997. Context and (mis)communication. Unpublished ms, responding to Chris Gauker’s “Domains of discourse” (*Mind*, 1997). URL: <http://mit.edu/fintel/fintel-1997-gauker.pdf>.
+76\. Kai von Fintel. 1997. Bare plurals, bare conditionals, and *only*. *Journal of Semantics* 14(1). 1–56. doi:[10.1093/jos/14.1.1](https://doi.org/10.1093/jos/14.1.1). URL: <http://mit.edu/fintel/fintel-1997-bare.pdf>.
 
-77\. Kai von Fintel. 1997. Some notes on disjunctive antecedents in conditionals. doi:[10.5281/zenodo.10109894](https://doi.org/10.5281/zenodo.10109894).
+77\. Kai von Fintel. 1997. Context and (mis)communication. Unpublished ms, responding to Chris Gauker’s “Domains of discourse” (*Mind*, 1997). URL: <http://mit.edu/fintel/fintel-1997-gauker.pdf>.
 
-78\. Kai von Fintel. 1996. Specific generics. Handout from a Linguistics Colloquium given at Rutgers University. URL: <http://mit.edu/fintel/fintel-1996-specific-generics.pdf>.
+78\. Kai von Fintel. 1997. Some notes on disjunctive antecedents in conditionals. doi:[10.5281/zenodo.10109894](https://doi.org/10.5281/zenodo.10109894).
 
-79\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
+79\. Kai von Fintel. 1996. Specific generics. Handout from a Linguistics Colloquium given at Rutgers University. URL: <http://mit.edu/fintel/fintel-1996-specific-generics.pdf>.
 
-80\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. Dissertation Committee: Angelika Kratzer (chair), Barbara Partee, Roger Higgins, Emmon Bach, and Philip Bricker. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
+80\. Kai von Fintel. 1995. The formal semantics of grammaticalization. *North East Linguistics Society (NELS)* 25(2). 175–189. URL: <http://mit.edu/fintel/fintel-1995-grammar.pdf>.
 
-81\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
+81\. Kai von Fintel. 1994. Restrictions on quantifier domains. Amherst, MA: University of Massachusetts PhD thesis. Dissertation Committee: Angelika Kratzer (chair), Barbara Partee, Roger Higgins, Emmon Bach, and Philip Bricker. URL: <http://semanticsarchive.net/Archive/jA3N2IwN/fintel-1994-thesis.pdf>.
 
-82\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
+82\. Kai von Fintel. 1993. Exceptive constructions. *Natural Language Semantics* 1(2). 123–148. doi:[10.1007/BF00372560](https://doi.org/10.1007/BF00372560). URL: <http://mit.edu/fintel/fintel-1993-exceptives.pdf>.
 
-83\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *North East Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+83\. Kai von Fintel. 1992. The modal-existential construction. *Formal Linguistic Society of Midamerica (FLSM)* 3. URL: <http://mit.edu/fintel/fintel-1992-modal-existentials.pdf>.
 
-84\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. URL: <https://scholarworks.umass.edu/umop/vol15/iss2/7>.
+84\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *North East Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
+
+85\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. URL: <https://scholarworks.umass.edu/umop/vol15/iss2/7>.
