@@ -14,13 +14,13 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
+1\. Kai von Fintel. 2024. Enough! In Edited M Ryan Bochnak, Eva Csipak, Lisa Matthewson, Marcin Morzycki & Daniel K E Reisinger (eds.), *The title of this volume is shorter than its contributions are allowed to be: Papers in honour of Hotze Rullmann*, 145–156. (University of British Columbia Occasional Papers in Linguistics (UBCOPL) 9). URL: <https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Fintel.pdf>.
 
-2\. Kai von Fintel & Sabine Iatridou. 2024. Comments on Krifka. Slides from commentary on a talk by Manfred Krifka at a ZAS workshop on speech-act related operators. URL: <http://mit.edu/fintel/fintel-iatridou-2024-krifka-comments.pdf>.
+2\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
 
-3\. Kai von Fintel & Sabine Iatridou. 2024. Unasked questions. Slides from recent talks on ongoing work. URL: <http://mit.edu/fintel/fintel-iatridou-2024-UnaskedQuestionsSlides.pdf>.
+3\. Kai von Fintel & Sabine Iatridou. 2024. Comments on Krifka. Slides from commentary on a talk by Manfred Krifka at a ZAS workshop on speech-act related operators. URL: <http://mit.edu/fintel/fintel-iatridou-2024-krifka-comments.pdf>.
 
-4\. Kai von Fintel. 2024. Enough! Contribution to a festschrift for Hotze Rullmann. URL: <http://mit.edu/fintel/fintel-2024-enough.pdf>.
+4\. Kai von Fintel & Sabine Iatridou. 2024. Unasked questions. Slides from recent talks on ongoing work. URL: <http://mit.edu/fintel/fintel-iatridou-2024-UnaskedQuestionsSlides.pdf>.
 
 5\. Kai von Fintel & Sabine Iatridou. 2023. Prolegomena to a theory of X-marking. *Linguistics and Philosophy* 46(6). 1467–1510. doi:[10.1007/s10988-023-09390-5](https://doi.org/10.1007/s10988-023-09390-5).
 
