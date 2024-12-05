@@ -16,7 +16,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 1\. Kai von Fintel & Robert Pasternak. 2024. Attitudes, aboutness, and indirect restriction. Accepted with minor revisions at *Linguistics and Philosophy*. URL: <https://ling.auf.net/lingbuzz/008646>.
 
-2\. Kai von Fintel. 2024. Enough! In Edited M Ryan Bochnak, Eva Csipak, Lisa Matthewson, Marcin Morzycki & Daniel K E Reisinger (eds.), *The title of this volume is shorter than its contributions are allowed to be: Papers in honour of Hotze Rullmann*, 145–156. (University of British Columbia Occasional Papers in Linguistics (UBCOPL) 9). URL: <https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Fintel.pdf>.
+2\. Kai von Fintel. 2024. Enough! In M Ryan Bochnak, Eva Csipak, Lisa Matthewson, Marcin Morzycki & Daniel K E Reisinger (eds.), *The title of this volume is shorter than its contributions are allowed to be: Papers in honour of Hotze Rullmann*, 145–156. (University of British Columbia Occasional Papers in Linguistics (UBCOPL) 9). URL: <https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Fintel.pdf>.
 
 3\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
 
@@ -36,7 +36,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 11\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
-12\. Kai von Fintel & Sabine Iatridou. 2019. Since ~~since~~. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
+12\. Kai von Fintel & Sabine Iatridou. 2019. Since since. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
 
 13\. Kai von Fintel. 2018. Conditional desires. Slides from a linguistics colloquium at Georgetown University. URL: <http://mit.edu/fintel/k-cd-slides.pdf>.
 
