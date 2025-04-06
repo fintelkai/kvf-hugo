@@ -16,7 +16,6 @@ This isn't the only place I'm present on the net:
 * [My posts at Language Log](http://languagelog.ldc.upenn.edu/nll/?author=22)
 * [Google Scholar](http://scholar.google.com/citations?user=C-YA164AAAAJ&hl=en)
 * [ORCID](http://orcid.org/0000-0002-7912-4246)
-* [Twitter](https://twitter.com/fintelkai)
 
 For more in-depth information about my work:
 
