@@ -14,15 +14,15 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Robert Pasternak. 2024. Attitudes, aboutness, and indirect restriction. Accepted with minor revisions at *Linguistics and Philosophy*. URL: <https://ling.auf.net/lingbuzz/008646>.
+1\. Kai von Fintel & Robert Pasternak. 2025. Attitudes, aboutness, and indirect restriction. *Linguistics and Philosophy*. doi:[10.1007/s10988-025-09432-0](https://doi.org/10.1007/s10988-025-09432-0).
 
-2\. Kai von Fintel. 2024. Enough! In M Ryan Bochnak, Eva Csipak, Lisa Matthewson, Marcin Morzycki & Daniel K E Reisinger (eds.), *The title of this volume is shorter than its contributions are allowed to be: Papers in honour of Hotze Rullmann*, 145–156. (University of British Columbia Occasional Papers in Linguistics (UBCOPL) 9). URL: <https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Fintel.pdf>.
+2\. Kai von Fintel & Sabine Iatridou. 2025. Questions that are merely posed, not asked. Slides from recent talks on ongoing work. URL: <https://web.mit.edu/fintel/ks-mpq-slides-arizona-2025-03-21.pdf>.
 
-3\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
+3\. Kai von Fintel. 2024. Enough! In M Ryan Bochnak, Eva Csipak, Lisa Matthewson, Marcin Morzycki & Daniel K E Reisinger (eds.), *The title of this volume is shorter than its contributions are allowed to be: Papers in honour of Hotze Rullmann*, 145–156. (University of British Columbia Occasional Papers in Linguistics (UBCOPL) 9). URL: <https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Fintel.pdf>.
 
-4\. Kai von Fintel & Sabine Iatridou. 2024. Comments on Krifka. Slides from commentary on a talk by Manfred Krifka at a ZAS workshop on speech-act related operators. URL: <http://mit.edu/fintel/fintel-iatridou-2024-krifka-comments.pdf>.
+4\. Cleo Condoravdi & Kai von Fintel. 2024. Enough! The linguistics of sufficiency. Handouts and slides from a class taught at CreteLing 2024. URL: <http://mit.edu/fintel/condoravdi-fintel-creteling2024-enough-class.zip>.
 
-5\. Kai von Fintel & Sabine Iatridou. 2024. Unasked questions. Slides from recent talks on ongoing work. URL: <http://mit.edu/fintel/fintel-iatridou-2024-UnaskedQuestionsSlides.pdf>.
+5\. Kai von Fintel & Sabine Iatridou. 2024. Comments on Krifka. Slides from commentary on a talk by Manfred Krifka at a ZAS workshop on speech-act related operators. URL: <http://mit.edu/fintel/fintel-iatridou-2024-krifka-comments.pdf>.
 
 6\. Kai von Fintel & Sabine Iatridou. 2023. Prolegomena to a theory of X-marking. *Linguistics and Philosophy* 46(6). 1467–1510. doi:[10.1007/s10988-023-09390-5](https://doi.org/10.1007/s10988-023-09390-5).
 
@@ -36,7 +36,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 11\. Kai von Fintel & Sabine Iatridou. 2019. The *Only* connectives. Slides from talks in Utrecht and Frankfurt. URL: <http://mit.edu/fintel/fintel-iatridou-2019-only-slides.pdf>.
 
-12\. Kai von Fintel & Sabine Iatridou. 2019. Since since. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
+12\. Kai von Fintel & Sabine Iatridou. 2019. Since ~~since~~. In Daniel Altshuler & Jessica Rett (eds.), *The semantics of plurals, focus, degrees, and times: Essays in honor of Roger Schwarzschild*, 305–333. Springer. doi:[10.1007/978-3-030-04438-1_15](https://doi.org/10.1007/978-3-030-04438-1_15). URL: <http://mit.edu/fintel/fintel-iatridou-2019-since.pdf>.
 
 13\. Kai von Fintel. 2018. Conditional desires. Slides from a linguistics colloquium at Georgetown University. URL: <http://mit.edu/fintel/k-cd-slides.pdf>.
 
