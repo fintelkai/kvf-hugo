@@ -16,5 +16,5 @@ There are eight columns. I give here links to those that are (as of now) availab
 5. ["The words that evoke ‘sound pictures’"](https://www.csmonitor.com/The-Culture/In-a-Word/2022/1010/The-words-that-evoke-sound-pictures) ([pdf](/pdf/fintel-2022-CSM-Column-5-Lautbilder.pdf))
 6. ["Words help construct the reality we live in"](https://www.csmonitor.com/The-Culture/In-a-Word/2022/1017/Words-help-construct-the-reality-we-live-in) ([pdf](/pdf/fintel-2022-CSM-Column-6-Chomsky.pdf))
 7. "Other attempts to convey irony in writing" ([pdf](/pdf/fintel-2022-CSM-Column-7-Irony.pdf))
-8. ["Language describes, but also changes, the world"](https://www.csmonitor.com/The-Culture/In-a-Word/2023/0807/How-language-describes-but-also-changes-the-world) ([pdf](/pdf/fintel-2023-CSM-8-Hereby.pdf))
+8. ["Language describes, but also changes, the world"](https://www.csmonitor.com/The-Culture/In-a-Word/2023/0807/How-language-describes-but-also-changes-the-world) ([pdf](/pdf/fintel-2023-Column-CSM-8-Hereby.pdf))
 
