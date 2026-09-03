@@ -185,4 +185,4 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 85\. Kai von Fintel. 1991. Exceptive conditionals: The meaning of *Unless*. *North East Linguistic Society (NELS)* 22. URL: <http://mit.edu/fintel/fintel-1991-unless.pdf>.
 
-86\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. URL: <https://scholarworks.umass.edu/umop/vol15/iss2/7>.
+86\. Kai von Fintel. 1989. Theticity in generative grammar. In Emmon Bach, Angelika Kratzer & Barbara H. Partee (eds.), *Papers on quantification: NSF grant BNS 8719999*. (University of Massachusetts Occasional Papers in Linguistics (UMOP) 15). Department of Linguistics, University of Massachusetts at Amherst. doi:[20.500.14394/49925](https://doi.org/20.500.14394/49925). URL: <http://mit.edu/fintel/fintel-1989-theticity.pdf>.
