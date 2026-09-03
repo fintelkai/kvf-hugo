@@ -26,7 +26,9 @@ Body is plain markdown; `markup.goldmark.renderer.unsafe = true` is on, so raw H
 
 ## Pushing
 
-Remote is HTTPS without cached credentials in agent sessions. Stage and commit freely; leave the actual `git push` to Kai. The `~/Documents/CLAUDE.md` "explicit ask each turn" rule still applies on top of that.
+Never `git push` without an explicit ask in the current turn — the `~/Documents/CLAUDE.md` rule, in full force here. Stage and commit freely; the push is a separate, asked-for step.
+
+When asked, it works: the HTTPS remote has a working credential helper, verified 2026-09-03 with a non-interactive push. This section used to say there were no cached credentials and that the push had to be handed back; that was wrong, and it made a standing instruction look like a technical limit.
 
 ## Build artifacts
 
