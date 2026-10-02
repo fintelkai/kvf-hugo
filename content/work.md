@@ -15,7 +15,7 @@ See below for a list of papers, handouts, slides, and class notes. For a full li
 
 0\. Kai von Fintel & Irene Heim. 1997–. Intensional semantics. URL: <https://github.com/fintelkai/fintel-heim-intensional-notes>. Lecture notes for *Advanced Semantics*, updated regularly. (see also the often-cited [2011 edition](https://github.com/fintelkai/fintel-heim-intensional-notes/blob/master/fintel-heim-2011-intensional.pdf)).
 
-1\. Kai von Fintel & Sabine Iatridou. 2026. Superlative puzzles. In Márta Abrusán, Luka Crnič, Colin Davis, Roni Katzir, Yasutada Sudo, Shoichi Takahashi & Tue Trinh (eds.), *A festschrift for Danny Fox*. (MIT Working Papers in Linguistics 98). MITWPL. URL: <https://web.mit.edu/fintel/ks-the-more.pdf>.
+1\. Kai von Fintel & Sabine Iatridou. 2026. Superlative puzzles. In Márta Abrusán, Luka Crnič, Colin Davis, Roni Katzir, Yasutada Sudo, Shoichi Takahashi & Tue Trinh (eds.), *A festschrift for Danny Fox*. (MIT Working Papers in Linguistics 98). MITWPL. URL: <https://web.mit.edu/fintel/fintel-iatridou-2026-SuperlativePuzzles.pdf>.
 
 2\. Kai von Fintel & Anthony S. Gillies. 2026. Yo-yo conditionals and counterfactual suppositions. Handout from a talk at UT Austin. doi:[10.5281/zenodo.22116790](https://doi.org/10.5281/zenodo.22116790).
 
